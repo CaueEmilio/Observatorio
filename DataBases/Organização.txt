@@ -1,0 +1,1 @@
+As pastas são os nomes das Databases e os arquivos são os nomes das coleções
