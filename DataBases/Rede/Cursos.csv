@@ -1,637 +1,637 @@
 ,Articulação,Campus,Curso,Instituição,Nível
-0,Integrado,Congonhas,Mecânica,IFMG,Técnico
-1,Integrado,Congonhas,Edificações,IFMG,Técnico
-2,Integrado,Congonhas,Mineração,IFMG,Técnico
-3,Bacharelado,Congonhas,Engenharia de Produção,IFMG,Superior
-4,Bacharelado,Congonhas,Engenharia Mecânica,IFMG,Superior
-5,Licenciatura,Congonhas,Física,IFMG,Superior
-6,Licenciatura,Congonhas,Letras,IFMG,Superior
-7,Integrado,Conselheiro Lafaiete,Eletrotécnica,IFMG,Técnico
-8,Integrado,Conselheiro Lafaiete,Mecânica,IFMG,Técnico
-9,Integrado,Governador Valadares,Edificações,IFMG,Técnico
-10,Integrado,Governador Valadares,Meio Ambiente,IFMG,Técnico
-11,Integrado,Governador Valadares,Segurança do Trabalho,IFMG,Técnico
-12,Subsequente,Governador Valadares,Serviços Jurídicos,IFMG,Técnico
-13,Bacharelado,Governador Valadares,Engenharia Ambiental e Sanitária,IFMG,Superior
-14,Bacharelado,Governador Valadares,Engenharia de Produção,IFMG,Superior
-15,Bacharelado,Governador Valadares,Engenharia Civil,IFMG,Superior
-16,Tecnologia,Governador Valadares,Gestão Ambiental,IFMG,Superior
-17,Especialização lato sensu,Governador Valadares,Engenharia de Segurança do Trabalho,IFMG,Pós-Graduação
-18,Subsequente,Piumhi,Edificações,IFMG,Técnico
-19,Bacharelado,Piumhi,Engenharia Civil,IFMG,Superior
-20,Integrado,Ouro Branco,Administração,IFMG,Técnico
-21,Integrado,Ouro Branco,Informática,IFMG,Técnico
-22,Integrado,Ouro Branco,Metalurgia,IFMG,Técnico
-23,Bacharelado,Ouro Branco,Administração,IFMG,Superior
-24,Bacharelado,Ouro Branco,Engenharia Metalúrgica,IFMG,Superior
-25,Bacharelado,Ouro Branco,Sistemas de Informação,IFMG,Superior
-26,Licenciatura,Ouro Branco,Computação,IFMG,Superior
-27,Licenciatura,Ouro Branco,Pedagogia,IFMG,Superior
-28,Mestrado Profissional stricto sensu,Ouro Branco,Educação Profissional e Tecnológica,IFMG,Pós-Graduação
-29,Subsequente,Ipatinga,Segurança do Trabalho,IFMG,Técnico
-30,Subsequente,Ipatinga,Mecânica,IFMG,Técnico
-31,Subsequente,Ipatinga,Eletrotécnica,IFMG,Técnico
-32,Bacharelado,Ipatinga,Engenharia Elétrica,IFMG,Superior
-33,FIC,Ouro Preto,Design de Joias,IFMG,FIC nível intermediário
-34,FIC,Ouro Preto,Joalheria Artesanal,IFMG,FIC módulo básico
-35,FIC,Ouro Preto,Lapidação de Gemas,IFMG,FIC módulo básico
-36,FIC,Ouro Preto,Leitura e Produção Textual,IFMG,FIC módulo básico
-37,FIC,Ouro Preto,LIBRAS,IFMG,FIC módulo básico
-38,FIC,Ouro Preto,Planejamento de Lavra de Mina com o Software Micromine,IFMG,FIC módulo básico
-39,FIC,Ouro Preto,Tecnologia Cervejeira,IFMG,FIC módulo básico
-40,FIC,Ouro Preto,Vitrines Temáticas para Joalheria,IFMG,FIC módulo básico
-41,EAD,Ouro Preto,Automação Industrial,IFMG,Técnico
-42,EAD,Ouro Preto,Controle Ambiental,IFMG,Técnico
-43,EAD,Ouro Preto,Edificações,IFMG,Técnico
-44,EAD,Ouro Preto,Eletroeletrônica,IFMG,Técnico
-45,EAD,Ouro Preto,Hospedagem,IFMG,Técnico
-46,EAD,Ouro Preto,Metalurgia,IFMG,Técnico
-47,EAD,Ouro Preto,Serviços Públicos,IFMG,Técnico
-48,Integrado,Ouro Preto,Administração,IFMG,Técnico
-49,Integrado,Ouro Preto,Automação Industrial,IFMG,Técnico
-50,Integrado,Ouro Preto,Edificações,IFMG,Técnico
-51,Integrado,Ouro Preto,Metalurgia,IFMG,Técnico
-52,Integrado,Ouro Preto,Mineração,IFMG,Técnico
-53,Subsequente,Ouro Preto,Meio Ambiente,IFMG,Técnico
-54,Subsequente,Ouro Preto,Segurança do Trabalho,IFMG,Técnico
-55,Tecnologia,Ouro Preto,Conservação e Restauro,IFMG,Superior
-56,Tecnologia,Ouro Preto,Gastronomia,IFMG,Superior
-57,Tecnologia,Ouro Preto,Gestão da Qualidade,IFMG,Superior
-58,Licenciatura,Ouro Preto,Física,IFMG,Superior
-59,Licenciatura,Ouro Preto,Geografia,IFMG,Superior
-60,Especialização lato sensu,Ouro Preto,Educação Matemática,IFMG,Pós-Graduação
-61,Integrado,Itapirito,Automação Industrial,IFMG,Técnico
-62,Subsequente,Itapirito,Eletroeletrônica,IFMG,Técnico
-63,Bacharelado,Itapirito,Engenharia Eletrônica,IFMG,Superior
-64,Integrado,Ribeirão das Neves,Administração,IFMG,Técnico
-65,Integrado,Ribeirão das Neves,Informática,IFMG,Técnico
-66,Integrado,Ribeirão das Neves,Eletroeletrônica,IFMG,Técnico
-67,Tecnologia,Ribeirão das Neves,Processos Gerenciais,IFMG,Superior
-68,Bacharelado,Ribeirão das Neves,Administração,IFMG,Superior
-69,Especialização lato sensu,Ribeirão das Neves,Gestão Pública e Desenvolvimento Regional,IFMG,Pós-Graduação
-70,Integrado,Ponte Nova,Administração,IFMG,Técnico
-71,Integrado,Ponte Nova,Informática,IFMG,Técnico
-72,Integrado,Sabará,Administração,IFMG,Técnico
-73,Integrado,Sabará,Informática,IFMG,Técnico
-74,Integrado,Sabará,Eletrônica,IFMG,Técnico
-75,Bacharelado,Sabará,Sistemas de Informação,IFMG,Superior
-76,Bacharelado,Sabará,Engenharia de Controle e Automação,IFMG,Superior
-77,Tecnologia,Sabará,Logística,IFMG,Superior
-78,Tecnologia,Sabará,Processos Gerenciais,IFMG,Superior
-79,Integrado,Formiga,Administração,IFMG,Técnico
-80,Integrado,Formiga,Eletrotécnica,IFMG,Técnico
-81,Integrado,Formiga,Informática,IFMG,Técnico
-82,Bacharelado,Formiga,Administração,IFMG,Superior
-83,Bacharelado,Formiga,Ciência da Computação,IFMG,Superior
-84,Bacharelado,Formiga,Engenharia Elétrica,IFMG,Superior
-85,Licenciatura,Formiga,Matemática,IFMG,Superior
-86,Tecnologia,Formiga,Gestão Financeira,IFMG,Superior
-87,Integrado,Santa Luzia,Edificações,IFMG,Técnico
-88,Subsequente,Santa Luzia,Paisagismo,IFMG,Técnico
-89,Subsequente,Santa Luzia,Segurança do Trabalho,IFMG,Técnico
-90,Bacharelado,Santa Luzia,Arquitetura e Urbanismo,IFMG,Superior
-91,Tecnologia,Santa Luzia,Design de Interiores,IFMG,Superior
-92,Bacharelado,Santa Luzia,Engenharia Civil,IFMG,Superior
-93,Integrado,Bambuí,Administração,IFMG,Técnico
-94,Integrado,Bambuí,Agropecuária,IFMG,Técnico
-95,Integrado,Bambuí,Informática,IFMG,Técnico
-96,Integrado,Bambuí,Manutenção Automotiva,IFMG,Técnico
-97,Integrado,Bambuí,Meio Ambiente,IFMG,Técnico
-98,Bacharelado,Bambuí,Administração,IFMG,Superior
-99,Bacharelado,Bambuí,Agronomia,IFMG,Superior
-100,Bacharelado,Bambuí,Engenharia de Alimentos,IFMG,Superior
-101,Bacharelado,Bambuí,Engenharia de Computação,IFMG,Superior
-102,Bacharelado,Bambuí,Engenharia de Produção,IFMG,Superior
-103,Bacharelado,Bambuí,Medicina Veterinária,IFMG,Superior
-104,Bacharelado,Bambuí,Zootecnia,IFMG,Superior
-105,Licenciatura,Bambuí,Física,IFMG,Superior
-106,Licenciatura,Bambuí,Ciências Biológicas,IFMG,Superior
-107,Mestrado Profissional stricto sensu,Bambuí,Sustentabilidade e Tecnologia Ambiental,IFMG,Pós-Graduação
-108,EAD,São João Evangelista,Artesanato,IFMG,Técnico
-109,EAD,São João Evangelista,Florestas,IFMG,Técnico
-110,EAD,São João Evangelista,Reciclagem,IFMG,Técnico
-111,Integrado,São João Evangelista,Agropecuária,IFMG,Técnico
-112,Integrado,São João Evangelista,Técnico,IFMG,Técnico
-113,Integrado,São João Evangelista,Nutrição e Dietética,IFMG,Técnico
-114,Subsequente,São João Evangelista,Agrimensura,IFMG,Técnico
-115,Bacharelado,São João Evangelista,Administração,IFMG,Superior
-116,Bacharelado,São João Evangelista,Agronomia,IFMG,Superior
-117,Bacharelado,São João Evangelista,Engenharia Florestal,IFMG,Superior
-118,Bacharelado,São João Evangelista,Sistemas de Informação,IFMG,Superior
-119,Licenciatura,São João Evangelista,Matemática,IFMG,Superior
-120,Especialização lato sensu,São João Evangelista,Meio Ambiente,IFMG,Pós-Graduação
-121,Especialização lato sensu,São João Evangelista,Especialização,IFMG,Pós-Graduação
-122,EAD,Betim,Análises Químicas,IFMG,Técnico
-123,EAD,Betim,Informática para Internet,IFMG,Técnico
-124,EAD,Betim,Mecânica,IFMG,Técnico
-125,Integrado,Betim,Automação,IFMG,Técnico
-126,Integrado,Betim,Química,IFMG,Técnico
-127,Bacharelado,Betim,Engenharia de Controle e Automação,IFMG,Superior
-128,Bacharelado,Betim,Engenharia Mecânica,IFMG,Superior
-129,EAD,Arcos,Estratégias de Ensino e Aprendizagem,IFMG,Formação Profissional
-130,Formação Profissional,Arcos,Informática para Terceira Idade,IFMG,Formação Profissional
-131,Formação Profissional,Arcos,modelagem 3D,IFMG,Formação Profissional
-132,Formação Profissional,Arcos,Inglês Básico I,IFMG,Formação Profissional
-133,Bacharelado,Arcos,Engenharia Mecânica,IFMG,Superior
-134,Especialização lato sensu,Arcos,Docência,IFMG,Pós-Graduação
-135,Integrado,Ibirité,Automação Industrial,IFMG,Técnico
-136,Integrado,Ibirité,Mecatrônica,IFMG,Técnico
-137,Integrado,Ibirité,Sistemas de Energia Renovável,IFMG,Técnico
-138,Bacharelado,Ibirité,Engenharia de Controle e Automação,IFMG,Superior
-139,Integrado,Carmo de Minas,Alimentos,IFSUL,Técnico
-140,Integrado,Carmo de Minas,Informática,IFSUL,Técnico
-141,Subsequente,Carmo de Minas,Administração,IFSUL,Técnico
-142,Integrado,Inconfidentes,Agrimensura,IFSUL,Técnico
-143,Integrado,Inconfidentes,Agropecuária,IFSUL,Técnico
-144,Integrado,Inconfidentes,Alimentos,IFSUL,Técnico
-145,Integrado,Inconfidentes,Informática,IFSUL,Técnico
-146,Tecnologia,Inconfidentes,Gestão Ambiental,IFSUL,Superior
-147,Tecnologia,Inconfidentes,Redes de Computadores,IFSUL,Superior
-148,Licenciatura,Inconfidentes,Ciências Biológicas,IFSUL,Superior
-149,Licenciatura,Inconfidentes,Matemática,IFSUL,Superior
-150,Licenciatura,Inconfidentes,Educação do Campo - Área Ciências Agrárias,IFSUL,Superior
-151,Licenciatura,Inconfidentes,Pedagogia,IFSUL,Superior
-152,Licenciatura,Inconfidentes,História,IFSUL,Superior
-153,Bacharelado,Inconfidentes,Engenharia Ambiental,IFSUL,Superior
-154,Bacharelado,Inconfidentes,Engenharia Agronômica,IFSUL,Superior
-155,Bacharelado,Inconfidentes,Engenharia de Agrimensura e Cartográfica,IFSUL,Superior
-156,Bacharelado,Inconfidentes,Engenharia de Alimentos,IFSUL,Superior
-157,Especialização lato sensu,Inconfidentes,Educação Infantil,IFSUL,Pós-Graduação
-158,Especialização lato sensu,Inconfidentes,Educação Matemática,IFSUL,Pós-Graduação
-159,Especialização lato sensu,Inconfidentes,Gestão Ambiental,IFSUL,Pós-Graduação
-160,EAD,Machado,Alimentação Escolar,IFSUL,Técnico
-161,EAD,Machado,Agroindústria,IFSUL,Técnico
-162,EAD,Machado,Geoprocessamento,IFSUL,Técnico
-163,EAD,Machado,Redes de Computadores,IFSUL,Técnico
-164,EAD,Machado,Segurança do Trabalho,IFSUL,Técnico
-165,EAD,Machado,Vendas,IFSUL,Técnico
-166,FIC EAD,Machado,Saúde,IFSUL,FIC EAD
-167,FIC EAD,Machado,Fases do Desenvolvimento Infantil,IFSUL,FIC EAD
-168,Integrado,Machado,Agropecuária,IFSUL,Técnico
-169,Integrado,Machado,Alimentos,IFSUL,Técnico
-170,Integrado,Machado,Informática,IFSUL,Técnico
-171,Subsequente,Machado,Administração,IFSUL,Técnico
-172,Subsequente,Machado,Segurança do Trabalho,IFSUL,Técnico
-173,Bacharelado,Machado,Administração,IFSUL,Superior
-174,Bacharelado,Machado,Agronomia,IFSUL,Superior
-175,Bacharelado,Machado,Ciência e Tecnologia dos Alimentos,IFSUL,Superior
-176,Licenciatura,Machado,Ciências Biológicas,IFSUL,Superior
-177,Licenciatura,Machado,Computação,IFSUL,Superior
-178,Bacharelado,Machado,Sistemas de Informação,IFSUL,Superior
-179,Bacharelado,Machado,Zootecnia,IFSUL,Superior
-180,Mestrado Profissional stricto sensu,Machado,Alimentos,IFSUL,Pós-Graduação
-181,Integrado,Muzambinho,Agropecuária,IFSUL,Técnico
-182,Subsequente,Muzambinho,Alimentos,IFSUL,Técnico
-183,Integrado,Muzambinho,Informática,IFSUL,Técnico
-184,Subsequente,Muzambinho,Administração,IFSUL,Técnico
-185,Subsequente,Muzambinho,Contabilidade,IFSUL,Técnico
-186,Subsequente,Muzambinho,Edificações,IFSUL,Técnico
-187,Subsequente,Muzambinho,Enfermagem,IFSUL,Técnico
-188,Subsequente,Muzambinho,Segurança do Trabalho,IFSUL,Técnico
-189,Bacharelado,Muzambinho,Engenharia Agronômica,IFSUL,Superior
-190,Bacharelado,Muzambinho,Ciência da Computação,IFSUL,Superior
-191,Bacharelado,Muzambinho,Educação Física,IFSUL,Superior
-192,Bacharelado,Muzambinho,Medicina Veterinária,IFSUL,Superior
-193,Licenciatura,Muzambinho,Ciências Biológicas,IFSUL,Superior
-194,Tecnologia,Muzambinho,Cafeicultura,IFSUL,Superior
-195,Especialização lato sensu,Muzambinho,Gestão Pública e Desenvolvimento Regional,IFSUL,Pós-Graduação
-196,Integrado,Passos,Comunicação Visual,IFSUL,Técnico
-197,Integrado,Passos,Informática,IFSUL,Técnico
-198,Integrado,Passos,Produção de Moda,IFSUL,Técnico
-199,Subsequente,Passos,Enfermagem,IFSUL,Técnico
-200,Bacharelado,Passos,Administração de Empresas,IFSUL,Superior
-201,Bacharelado,Passos,Ciência da Computação,IFSUL,Superior
-202,Licenciatura,Passos,Matemática,IFSUL,Superior
-203,Licenciatura,Passos,Design de Moda,IFSUL,Superior
-204,Tecnologia,Passos,Produção Publicitária,IFSUL,Superior
-205,Especialização lato sensu,Passos,Ensino de Humanidades,IFSUL,Pós-Graduação
-206,Integrado,Poços de Caldas,Informática,IFSUL,Técnico
-207,Integrado,Poços de Caldas,Eletrotécnica,IFSUL,Técnico
-208,Subsequente,Poços de Caldas,Administração,IFSUL,Técnico
-209,Subsequente,Poços de Caldas,Edificações,IFSUL,Técnico
-210,Bacharelado,Poços de Caldas,Engenharia de Computação,IFSUL,Superior
-211,Licenciatura,Poços de Caldas,Ciências Biológicas,IFSUL,Superior
-212,Licenciatura,Poços de Caldas,Geografia,IFSUL,Superior
-213,Tecnologia,Poços de Caldas,Gestão Ambiental,IFSUL,Superior
-214,Tecnologia,Poços de Caldas,Gestão Comercial,IFSUL,Superior
-215,Especialização lato sensu,Poços de Caldas,Informática na Educação,IFSUL,Pós-Graduação
-216,Especialização lato sensu,Poços de Caldas,Formação de Lideranças para Gestão Avançada de Mercado,IFSUL,Pós-Graduação
-217,Mestrado Profissional stricto sensu,Poços de Caldas,Educação Profissional e Tecnológica,IFSUL,Mestrado
-218,EAD,Pouso Alegre,Análises Químicas,IFSUL,Técnico
-219,EAD,Pouso Alegre,Logística,IFSUL,Técnico
-220,EAD,Pouso Alegre,Qualidade,IFSUL,Técnico
-221,Integrado,Pouso Alegre,Administração,IFSUL,Técnico
-222,Integrado,Pouso Alegre,Edificações,IFSUL,Técnico
-223,Integrado,Pouso Alegre,Informática,IFSUL,Técnico
-224,Subsequente,Pouso Alegre,Química,IFSUL,Técnico
-225,Subsequente,Pouso Alegre,Segurança do Trabalho,IFSUL,Técnico
-226,Bacharelado,Pouso Alegre,Engenharia Civil,IFSUL,Superior
-227,Bacharelado,Pouso Alegre,Engenharia Química,IFSUL,Superior
-228,Licenciatura,Pouso Alegre,Matemática,IFSUL,Superior
-229,Licenciatura,Pouso Alegre,Química,IFSUL,Superior
-230,Especialização lato sensu,Pouso Alegre,Ciências da Natureza (química e física),IFSUL,Pós-Graduação
-231,Especialização lato sensu,Pouso Alegre,Engenharia de Segurança do Trabalho e Higiene de Segurança do Trabalho,IFSUL,Pós-Graduação
-232,Especialização lato sensu,Pouso Alegre,Educação Matemática,IFSUL,Pós-Graduação
-233,Integrado,Três Corações,Administração,IFSUL,Técnico
-234,Integrado,Três Corações,Informação,IFSUL,Técnico
-235,Integrado,Três Corações,Mecânica,IFSUL,Técnico
-236,Subsequente,Três Corações,Comércio,IFSUL,Técnico
-237,Subsequente,Três Corações,Logística,IFSUL,Técnico
-238,Especialização técnica,Três Corações,Urgência e Emergência,IFSUL,Pós-Técnico
-239,Especialização lato sensu,Três Corações,Gestão Estratégica de Negócios,IFSUL,Pós-Graduação
-240,Especialização lato sensu,Três Corações,Ensino de Ciências Naturais e Matemática,IFSUL,Pós-Graduação
-241,EAD,Barbacena,Secretariado,IFSudeste,Técnico
-242,EAD,Barbacena,Leite e Derivados,IFSudeste,Técnico
-243,EAD,Barbacena,Informática para Internet,IFSudeste,Técnico
-244,EAD,Barbacena,Alimentação Escolar,IFSudeste,Técnico
-245,EAD,Barbacena,Agropecuária,IFSudeste,Técnico
-246,Integrado,Barbacena,Agroindústria,IFSudeste,Técnico
-247,Integrado,Barbacena,Hospedagem,IFSudeste,Técnico
-248,Integrado,Barbacena,Química,IFSudeste,Técnico
-249,Subsequente,Barbacena,Informática,IFSudeste,Técnico
-250,Subsequente,Barbacena,Enfermagem,IFSudeste,Técnico
-251,Subsequente,Barbacena,Meio Ambiente,IFSudeste,Técnico
-252,Subsequente,Barbacena,Nutrição e Dietética,IFSudeste,Técnico
-253,Subsequente,Barbacena,Segurança do Trabalho,IFSudeste,Técnico
-254,Bacharelado,Barbacena,Administração,IFSudeste,Superior
-255,Bacharelado,Barbacena,Agronomia,IFSudeste,Superior
-256,Tecnologia,Barbacena,Alimentos,IFSudeste,Superior
-257,Licenciatura,Barbacena,Ciências Biológicas,IFSudeste,Superior
-258,Licenciatura,Barbacena,Educação Física,IFSudeste,Superior
-259,Tecnologia,Barbacena,Gestão Ambiental,IFSudeste,Superior
-260,Tecnologia,Barbacena,Gestão de Turismo,IFSudeste,Superior
-261,Bacharelado,Barbacena,Nutrição,IFSudeste,Superior
-262,Licenciatura,Barbacena,Química,IFSudeste,Superior
-263,Tecnologia,Barbacena,Sistemas para Internet,IFSudeste,Superior
-264,Especialização lato sensu,Barbacena,Planejamento e Gestão de Áreas Naturais Protegidas,IFSudeste,Pós-Graduação
-265,EAD,Juiz de Fora,Administração,IFSudeste,Técnico
-266,EAD,Juiz de Fora,Enfermagem,IFSudeste,Técnico
-267,EAD,Juiz de Fora,Eventos,IFSudeste,Técnico
-268,EAD,Juiz de Fora,Finanças,IFSudeste,Técnico
-269,EAD,Juiz de Fora,Multimeios Didáticos,IFSudeste,Técnico
-270,EAD,Juiz de Fora,Reciclagem,IFSudeste,Técnico
-271,EAD,Juiz de Fora,Segurança do Trabalho,IFSudeste,Técnico
-272,EAD,Juiz de Fora,Serviços Públicos,IFSudeste,Técnico
-273,EAD,Juiz de Fora,Transações Imobiliárias,IFSudeste,Técnico
-274,Subsequente,Juiz de Fora,Design de Móveis,IFSudeste,Técnico
-275,Subsequente,Juiz de Fora,Eletrônica,IFSudeste,Técnico
-276,PROEJA,Juiz de Fora,Secretariado,IFSudeste,Técnico (proeja)
-277,Integrado,Juiz de Fora,Transações Imobiliárias,IFSudeste,Técnico
-278,Integrado,Juiz de Fora,Transporte Rodoviário,IFSudeste,Técnico
-279,Bacharelado,Juiz de Fora,Engenharia Mecatrônica,IFSudeste,Superior
-280,Bacharelado,Juiz de Fora,Engenharia Metalúrgica,IFSudeste,Superior
-281,Licenciatura,Juiz de Fora,Física,IFSudeste,Superior
-282,Bacharelado,Juiz de Fora,Sistemas de Informação,IFSudeste,Superior
-283,Especialização lato sensu,Juiz de Fora,Metodologia da Educação Física Escolar,IFSudeste,Pós-Graduação
-284,Especialização lato sensu,Juiz de Fora,Especialização emSustentabilidade na Construção Civil,IFSudeste,Pós-Graduação
-285,Mestrado Profissional stricto sensu,Juiz de Fora,Ensino de Física,IFSudeste,Pós-Graduação
-286,Subsequente,Manhuaçu,Cafeicultura,IFSudeste,Técnico
-287,Subsequente,Manhuaçu,Informática,IFSudeste,Técnico
-288,Especialização lato sensu,Manhuaçu,Cafeicultura Sustentável,IFSudeste,Pós-Graduação
-289,Proeja,Muriaé,Orientação Comunitária,IFSudeste,Técnico (proeja)
-290,EAD,Muriaé,Agroecologia,IFSudeste,Técnico
-291,Integrado,Muriaé,Eletrotécnica,IFSudeste,Técnico
-292,Integrado,Muriaé,Informática,IFSudeste,Técnico
-293,Subsequente,Muriaé,Eletromecânica,IFSudeste,Técnico
-294,Subsequente,Muriaé,Secretariado,IFSudeste,Técnico
-295,Subsequente,Muriaé,Meio Ambiente,IFSudeste,Técnico
-296,Bacharelado,Muriaé,Administração,IFSudeste,Superior
-297,Tecnologia,Muriaé,Design de Moda,IFSudeste,Superior
-298,EAD,Rio Pomba,Alimentos,IFSudeste,Técnico
-299,EAD,Rio Pomba,Técnico de Equideocultura,IFSudeste,Técnico
-300,EAD,Rio Pomba,Gerência de Saúde,IFSudeste,Técnico
-301,EAD,Rio Pomba,Logística,IFSudeste,Técnico
-302,EAD,Rio Pomba,Meio Ambiente,IFSudeste,Técnico
-303,EAD,Rio Pomba,Redes de Computadores,IFSudeste,Técnico
-304,EAD,Rio Pomba,Secretaria Escolar,IFSudeste,Técnico
-305,EAD,Rio Pomba,Zootecnia,IFSudeste,Técnico
-306,Integrado,Rio Pomba,Agropecuária,IFSudeste,Técnico
-307,Integrado,Rio Pomba,Alimentos,IFSudeste,Técnico
-308,Integrado,Rio Pomba,Florestas,IFSudeste,Técnico
-309,Integrado,Rio Pomba,Informática,IFSudeste,Técnico
-310,Integrado,Rio Pomba,Meio Ambiente,IFSudeste,Técnico
-311,Integrado,Rio Pomba,Zootecnia,IFSudeste,Técnico
-312,Subsequente,Rio Pomba,Administração,IFSudeste,Técnico
-313,Subsequente,Rio Pomba,Gerência de Saúde,IFSudeste,Técnico
-314,Subsequente,Rio Pomba,Técnico,IFSudeste,Técnico
-315,Subsequente,Rio Pomba,Segurança do Trabalho,IFSudeste,Técnico
-316,Subsequente,Rio Pomba,Serviços Jurídicios,IFSudeste,Técnico
-317,Subsequente,Rio Pomba,Vendas,IFSudeste,Técnico
-318,Bacharelado,Rio Pomba,Administração,IFSudeste,Superior
-319,Bacharelado,Rio Pomba,Agroecologia,IFSudeste,Superior
-320,Bacharelado,Rio Pomba,Ciência da Computação,IFSudeste,Superior
-321,Bacharelado,Rio Pomba,Ciência e Tecnologia de Alimentos,IFSudeste,Superior
-322,Bacharelado,Rio Pomba,Ciência e Tecnologia de Laticínios,IFSudeste,Superior
-323,Licenciatura,Rio Pomba,Educação Física,IFSudeste,Superior
-324,Licenciatura,Rio Pomba,Matemática,IFSudeste,Superior
-325,Bacharelado,Rio Pomba,Zootecnia,IFSudeste,Superior
-326,Especialização lato sensu EAD,Rio Pomba,Agroecologia,IFSudeste,Pós-Graduação
-327,Especialização lato sensu EAD,Rio Pomba,Docência na Educação Profissional e Tecnológica,IFSudeste,Pós-Graduação
-328,Especialização lato sensu,Rio Pomba,Especialização,IFSudeste,Pós-Graduação
-329,Especialização lato sensu,Rio Pomba,Ensino de Matemática e Física,IFSudeste,Pós-Graduação
-330,Mestrado Profissional stricto sensu,Rio Pomba,Ciência e Tecnologia de Alimentos,IFSudeste,Pós-Graduação
-331,Mestrado Profissional stricto sensu,Rio Pomba,Nutrição e Produção Animal,IFSudeste,Pós-Graduação
-332,Subsequente,Santos Dumont,Guia de Turismo,IFSudeste,Técnico
-333,Subsequente,Santos Dumont,Transporte de Cargas,IFSudeste,Técnico
-334,Subsequente,Santos Dumont,Eletrotécnica,IFSudeste,Técnico
-335,Licenciatura,Santos Dumont,Matemática,IFSudeste,Superior
-336,Subsequente,São João del-Rei,Administração,IFSudeste,Técnico
-337,Subsequente,São João del-Rei,Controle Ambiental,IFSudeste,Técnico
-338,Subsequente,São João del-Rei,Enfermagem,IFSudeste,Técnico
-339,Subsequente,São João del-Rei,Informática,IFSudeste,Técnico
-340,Subsequente,São João del-Rei,Segurança do Trabalho,IFSudeste,Técnico
-341,Licenciatura,São João del-Rei,Letras - Português e Espanhol,IFSudeste,Superior
-342,Tecnologia,São João del-Rei,Gestão de Recursos Humanos,IFSudeste,Superior
-343,Tecnologia,São João del-Rei,Gestão da Tecnologia da Informação,IFSudeste,Superior
-344,Tecnologia,São João del-Rei,Logística,IFSudeste,Superior
-345,Especialização lato sensu,São João del-Rei,Didática e Trabalho Docente,IFSudeste,Pós-Graduação
-346,FIC,Bom Sucesso,Administrador de Bancos de Dados,IFSudeste,FIC
-347,FIC,Bom Sucesso,Agricultor Orgânico,IFSudeste,FIC
-348,FIC,Bom Sucesso,Auxiliar de Fiscalização Ambiental,IFSudeste,FIC
-349,FIC,Bom Sucesso,Cadista para Construção Civil,IFSudeste,FIC
-350,FIC,Bom Sucesso,Inglês Básico I,IFSudeste,FIC
-351,FIC,Bom Sucesso,Instalador e Reparador de Redes de Computadores,IFSudeste,FIC
-352,FIC,Bom Sucesso,Operador de Computador,IFSudeste,FIC
-353,FIC,Bom Sucesso,Operador de Usina de Compostagem,IFSudeste,FIC
-354,FIC,Bom Sucesso,Programador WEB,IFSudeste,FIC
-355,Subsequente,Bom Sucesso,Meio Ambiente,IFSudeste,Técnico
-356,Subsequente,Bom Sucesso,Informática,IFSudeste,Técnico
-357,Tecnologia,Bom Sucesso,Gestão Ambiental,IFSudeste,Superior
-358,Tecnologia,Bom Sucesso,Análise e Desenvolvimento de Sistemas,IFSudeste,Superior
-359,FIC,Cataguases,Operador de Computador,IFSudeste,FIC
-360,FIC,Cataguases,Programador WEB,IFSudeste,FIC
-361,FIC,Cataguases,Programador de Dispositivos WEB,IFSudeste,FIC
-362,FIC,Ubá,Inglês Básico,IFSudeste,FIC
-363,FIC,Ubá,Programador WEB,IFSudeste,FIC
-364,Concomitante,Campina Verde,Administração,IFTM,Técnico
-365,Concomitante,Campina Verde,Agropecuária,IFTM,Técnico
-366,Concomitante,Campina Verde,Informática,IFTM,Técnico
-367,Concomitante,Ibiá,Informática,IFTM,Técnico
-368,Concomitante,Ibiá,Eletrotécnica,IFTM,Técnico
-369,Concomitante,Ibiá,Contabilidade,IFTM,Técnico
-370,Integrado,Ituiutaba,Agricultura,IFTM,Técnico
-371,Integrado,Ituiutaba,Informática,IFTM,Técnico
-372,Integrado,Ituiutaba,Química,IFTM,Técnico
-373,Concomitante,Ituiutaba,Administração,IFTM,Técnico
-374,Concomitante,Ituiutaba,Comércio,IFTM,Técnico
-375,Concomitante,Ituiutaba,Eletrotécnica,IFTM,Técnico
-376,Integrado,Ituiutaba,Agroindústria,IFTM,Técnico
-377,Bacharelado,Ituiutaba,Ciência da Computação,IFTM,Superior
-378,Tecnologia,Ituiutaba,Processos Químicos,IFTM,Superior
-379,Tecnologia,Ituiutaba,Alimentos,IFTM,Superior
-380,Tecnologia,Ituiutaba,Análise e Desenvolvimento de Sistema,IFTM,Superior
-381,Especialização lato sensu,Ituiutaba,Ciências Ambientais,IFTM,Pós-Graduação
-382,Especialização lato sensu,Ituiutaba,Higiene e Segurança Alimentar,IFTM,Pós-Graduação
-383,Especialização lato sensu,Ituiutaba,Novas Tecnologias Aplicadas à Educação,IFTM,Pós-Graduação
-384,Licenciatura,João Pinheiro,Computação,IFTM,Superior
-385,Licenciatura,João Pinheiro,Matemática,IFTM,Superior
-386,Concomitante,Paracatu,Técnico,IFTM,Técnico
-387,Integrado,Paracatu,Informática,IFTM,Técnico
-388,Integrado,Paracatu,Administração,IFTM,Técnico
-389,Integrado,Paracatu,Eletrônica,IFTM,Técnico
-390,Graduação,Paracatu,Engenharia Elétrica,IFTM,Superior
-391,Licenciatura,Paracatu,Matemática,IFTM,Superior
-392,Tecnologia,Paracatu,Análise e Desenvolvimento de Sistemas,IFTM,Superior
-393,Integrado,Patos de Minas,Mineração,IFTM,Técnico
-394,Integrado,Patos de Minas,Logística,IFTM,Técnico
-395,Integrado,Patos de Minas,Eletrotécnica,IFTM,Técnico
-396,Concomitante,Patrocínio,Contabilidade,IFTM,Técnico
-397,Integrado,Patrocínio,Administração,IFTM,Técnico
-398,Integrado,Patrocínio,Eletrônica,IFTM,Técnico
-399,Integrado,Patrocínio,Técnico,IFTM,Técnico
-400,Tecnologia,Patrocínio,Análise e Desenvolvimento de Sistemas,IFTM,Superior
-401,Bacharelado,Patrocínio,Engenharia Elétrica,IFTM,Superior
-402,Tecnologia,Patrocínio,Gestão Comercial,IFTM,Superior
-403,Integrado,Uberaba,Alimentos,IFTM,Técnico
-404,Integrado,Uberaba,Agropecuária,IFTM,Técnico
-405,Integrado,Uberaba,Administração,IFTM,Técnico
-406,Bacharelado,Uberaba,Administração,IFTM,Superior
-407,Bacharelado,Uberaba,Zootecnia,IFTM,Superior
-408,Bacharelado,Uberaba,Engenharia Agronômica,IFTM,Superior
-409,Licenciatura,Uberaba,Ciências Biológicas,IFTM,Superior
-410,Licenciatura,Uberaba,Química,IFTM,Superior
-411,Tecnologia,Uberaba,Alimentos,IFTM,Superior
-412,Especialização lato sensu,Uberaba,Geoprocessamento,IFTM,Pós-Graduação
-413,Especialização lato sensu,Uberaba,Gestão Ambiental: Diagnóstico e Adequação Ambiental,IFTM,Pós-Graduação
-414,Especialização lato sensu,Uberaba,Saneamento Ambiental,IFTM,Pós-Graduação
-415,Mestrado Profissional stricto sensu,Uberaba,Ciência e Tecnologia de Alimentos,IFTM,Pós-Graduação
-416,Mestrado Profissional stricto sensu,Uberaba,Educação Tecnológica,IFTM,Pós-Graduação
-417,Mestrado Profissional stricto sensu,Uberaba,Produção Vegetal,IFTM,Pós-Graduação
-418,Integrado,Uberaba Parque Tecnológico,Computação Gráfica,IFTM,Técnico
-419,Integrado,Uberaba Parque Tecnológico,Eletrônica,IFTM,Técnico
-420,Integrado,Uberaba Parque Tecnológico,Técnico,IFTM,Técnico
-421,Concomitante,Uberaba Parque Tecnológico,Administração,IFTM,Técnico
-422,Concomitante,Uberaba Parque Tecnológico,Automação Industrial,IFTM,Técnico
-423,Concomitante,Uberaba Parque Tecnológico,Edificações,IFTM,Técnico
-424,Concomitante,Uberaba Parque Tecnológico,Informática para Internet,IFTM,Técnico
-425,Concomitante,Uberaba Parque Tecnológico,Segurança do Trabalho,IFTM,Técnico
-426,Licenciatura (EAD),Uberaba Parque Tecnológico,Computação,IFTM,Superior
-427,Licenciatura (EAD),Uberaba Parque Tecnológico,Letras - Português,IFTM,Superior
-428,Licenciatura (EAD),Uberaba Parque Tecnológico,Matemática,IFTM,Superior
-429,Bacharelado,Uberaba Parque Tecnológico,Análise e Desenvolvimento de Sistemas,IFTM,Superior
-430,Bacharelado,Uberaba Parque Tecnológico,Engenharia de Computação,IFTM,Superior
-431,Mestrado Profissional stricto sensu,Uberaba Parque Tecnológico,Educação Profissional e Tecnológica - ProfEPT,IFTM,Pós-Graduação
-432,Integrado,Uberlândia,Alimentos,IFTM,Técnico
-433,Integrado,Uberlândia,Técnico,IFTM,Técnico
-434,Integrado,Uberlândia,Meio Ambiente,IFTM,Técnico
-435,Concomitante,Uberlândia,Agricultura,IFTM,Técnico
-436,Integrado,Uberlândia,Agropecuária,IFTM,Técnico
-437,Bacharelado,Uberlândia,Engenharia Agronômica,IFTM,Superior
-438,Tecnologia,Uberlândia,Alimentos,IFTM,Superior
-439,Especialização lato sensu,Uberlândia,Processos Alimentícios,IFTM,Pós-Graduação
-440,Integrado,Uberlândia Centro,Administração,IFTM,Técnico
-441,Integrado,Uberlândia Centro,Computação Gráfica,IFTM,Técnico
-442,Concomitante,Uberlândia Centro,Redes de Computadores,IFTM,Técnico
-443,Licenciatura,Uberlândia Centro,Computação,IFTM,Superior
-444,Tecnologia,Uberlândia Centro,Logística,IFTM,Superior
-445,Tecnologia,Uberlândia Centro,Marketing,IFTM,Superior
-446,Tecnologia,Uberlândia Centro,Tecnologia para Sistemas para Internet,IFTM,Superior
-447,Especialização lato sensu,Uberlândia Centro,Análise e Desenvolvimento de Sistemas Aplicados à Gestão Empresarial,IFTM,Pós-Graduação
-448,Especialização lato sensu,Uberlândia Centro,Gestão de Negócios,IFTM,Pós-Graduação
-449,Integrado,Almenara,Zootecnia,IFNMG,Técnico
-450,Subsequente,Almenara,Enfermagem,IFNMG,Técnico
-451,Concomitante,Almenara,Administração,IFNMG,Técnico
-452,Tecnologia,Almenara,Análise e Desenvolvivemento de Sistemas,IFNMG,Superior
-453,Bacharelado,Almenara,Agronomia,IFNMG,Superior
-454,Tecnologia,Almenara,Processos Gerenciais,IFNMG,Superior
-455,Integrado,Araçuaí,Agrimensura,IFNMG,Técnico
-456,Integrado,Araçuaí,Agroecologia,IFNMG,Técnico
-457,Integrado,Araçuaí,Informática,IFNMG,Técnico
-458,Integrado,Araçuaí,Meio Ambiente,IFNMG,Técnico
-459,Subsequente,Araçuaí,Enfermagem,IFNMG,Técnico
-460,Concomitante,Araçuaí,Comércio,IFNMG,Técnico
-461,Concomitante,Araçuaí,Técnico,IFNMG,Técnico
-462,Bacharelado,Araçuaí,Administração,IFNMG,Superior
-463,Bacharelado,Araçuaí,Engenharia Agrícola e Ambiental,IFNMG,Superior
-464,Tecnologia,Araçuaí,Análise e Desenvolvimento de Sistemas,IFNMG,Superior
-465,Tecnologia,Araçuaí,Gestão Ambiental,IFNMG,Superior
-466,Integrado,Arinos,Agropecuária,IFNMG,Técnico
-467,Integrado,Arinos,Informática,IFNMG,Técnico
-468,Integrado,Arinos,Meio Ambiente,IFNMG,Técnico
-469,Concomitante,Arinos,Administração,IFNMG,Técnico
-470,Concomitante,Arinos,Técnico,IFNMG,Técnico
-471,Bacharelado,Arinos,Administração,IFNMG,Superior
-472,Bacharelado,Arinos,Engenharia Agronômica,IFNMG,Superior
-473,Tecnologia,Arinos,Gestão Ambiental,IFNMG,Superior
-474,Tecnologia,Arinos,Produção de Grãos,IFNMG,Superior
-475,Bacharelado,Arinos,Sistemas de Informação,IFNMG,Superior
-476,Integrado,Diamantina,Informática,IFNMG,Técnico
-477,Integrado,Diamantina,Meio Ambiente,IFNMG,Técnico
-478,Concomitante,Diamantina,Biotecnologia,IFNMG,Técnico
-479,Concomitante,Diamantina,Teatro,IFNMG,Técnico
-480,PROEJA,Janaúba,Agente Comunitário de Saúde,IFNMG,Técnico (proeja)
-481,Integrado,Janaúba,Vigilância de Saúde,IFNMG,Técnico
-482,Integrado,Janaúba,Informática para Internet,IFNMG,Técnico
-483,Concomitante,Janaúba,Administração,IFNMG,Técnico
-484,PROEJA,Januária,Comércio,IFNMG,Técnico (proeja)
-485,Integrado,Januária,Agropecuária,IFNMG,Técnico
-486,Integrado,Januária,Informática para Internet,IFNMG,Técnico
-487,Integrado,Januária,Meio Ambiente,IFNMG,Técnico
-488,Concomitante,Januária,Edificações,IFNMG,Técnico
-489,Concomitante,Januária,Informática,IFNMG,Técnico
-490,Concomitante,Januária,Técnico,IFNMG,Técnico
-491,Bacharelado,Januária,Administração,IFNMG,Superior
-492,Licenciatura,Januária,Ciências Biológicas,IFNMG,Superior
-493,Bacharelado,Januária,Engenharia Agrícola e Ambiental,IFNMG,Superior
-494,Bacharelado,Januária,Engenharia Agronômica,IFNMG,Superior
-495,Bacharelado,Januária,Engenharia Civil,IFNMG,Superior
-496,Bacharelado,Januária,Sistemas de Informação,IFNMG,Superior
-497,Licenciatura,Januária,Física,IFNMG,Superior
-498,Licenciatura,Januária,Matemática,IFNMG,Superior
-499,Tecnologia,Januária,Análise e Desenvolvimento de Sistemas,IFNMG,Superior
-500,Integrado,Montes Claros,Informática,IFNMG,Técnico
-501,Integrado,Montes Claros,Química,IFNMG,Técnico
-502,Subsequente,Montes Claros,Eletrotécnica,IFNMG,Técnico
-503,Subsequente,Montes Claros,Segurança do Trabalho,IFNMG,Técnico
-504,Subsequente,Montes Claros,Edificações,IFNMG,Técnico
-505,Bacharelado,Montes Claros,Ciências da Computação,IFNMG,Superior
-506,Bacharelado,Montes Claros,Engenharia Elétrica,IFNMG,Superior
-507,Bacharelado,Montes Claros,Engenharia Química,IFNMG,Superior
-508,Integrado,Pirapora,Edificações,IFNMG,Técnico
-509,Integrado,Pirapora,Informática,IFNMG,Técnico
-510,Integrado,Pirapora,Vendas,IFNMG,Técnico
-511,Integrado,Pirapora,Sistemas de Energia Renovável,IFNMG,Técnico
-512,Subsequente,Pirapora,Administração,IFNMG,Técnico
-513,Subsequente,Pirapora,Segurança do Trabalho,IFNMG,Técnico
-514,Subsequente,Pirapora,Agente Comunitário de Saúde,IFNMG,Técnico
-515,Bacharelado,Pirapora,Administração,IFNMG,Superior
-516,Bacharelado,Pirapora,Engenharia Civil,IFNMG,Superior
-517,Bacharelado,Pirapora,Sistemas de Informação,IFNMG,Superior
-518,Concomitante,Porteirinha,Informática para Internet,IFNMG,Técnico
-519,Concomitante,Porteirinha,Eletrotécnica,IFNMG,Técnico
-520,Bacharelado,Porteirinha,Sistemas de Informação,IFNMG,Superior
-521,Integrado,Salinas,Agroindústria,IFNMG,Técnico
-522,Integrado,Salinas,Agropecuária,IFNMG,Técnico
-523,Integrado,Salinas,Informática,IFNMG,Técnico
-524,Licenciatura,Salinas,Ciências Biológicas,IFNMG,Superior
-525,Licenciatura,Salinas,Matemática,IFNMG,Superior
-526,Licenciatura,Salinas,Química,IFNMG,Superior
-527,Licenciatura,Salinas,Física,IFNMG,Superior
-528,Licenciatura,Salinas,Pedagogia,IFNMG,Superior
-529,Tecnologia,Salinas,Produção de Cachaça,IFNMG,Superior
-530,Bacharelado,Salinas,Medicina Veterinária,IFNMG,Superior
-531,Bacharelado,Salinas,Engenharia Florestal,IFNMG,Superior
-532,Bacharelado,Salinas,Engenharia de Alimentos,IFNMG,Superior
-533,Bacharelado,Salinas,Sistemas de Informação,IFNMG,Superior
-534,Concomitante,Teófilo Otoni,Administração,IFNMG,Técnico
-535,Concomitante,Teófilo Otoni,Informática,IFNMG,Técnico
-536,Integrado,Teófilo Otoni,Agropecuária,IFNMG,Técnico
-537,Tecnologia,Teófilo Otoni,Análises e Desenvolvimento de Sistemas,IFNMG,Superior
-538,Integrado,Araxás,Edificações,CEFET,Técnico
-539,Integrado,Araxás,Eletrônica,CEFET,Técnico
-540,Integrado,Araxás,Mecânica,CEFET,Técnico
-541,Integrado,Araxás,Mineração,CEFET,Técnico
-542,Bacharelado,Araxás,Engenharia de Automação,CEFET,Superior
-543,Bacharelado,Araxás,Engenharia de Minas,CEFET,Superior
-544,Integrado,BH Câmpus I,Eletromecânica,CEFET,Técnico
-545,Integrado,BH Câmpus I,Mecatrônica,CEFET,Técnico
-546,Integrado,BH Câmpus I,Meio Ambiente,CEFET,Técnico
-547,Integrado,BH Câmpus I,Trânsito,CEFET,Técnico
-548,Bacharelado,BH Câmpus I,Engenharia Ambiental,CEFET,Superior
-549,Bacharelado,BH Câmpus I,Engenharia de Materiais,CEFET,Superior
-550,Bacharelado,BH Câmpus I,Engenharia de Transporte,CEFET,Superior
-551,Bacharelado,BH Câmpus I,Letras,CEFET,Superior
-552,Bacharelado,BH Câmpus I,Química Tecnológica,CEFET,Superior
-553,Mestrado Profissional stricto sensu,BH Câmpus I,Engenharia de Materiais,CEFET,Pós-Graduação
-554,Mestrado Profissional stricto sensu,BH Câmpus I,Estudos de Linguagens,CEFET,Pós-Graduação
-555,Doutorado stricto sensu,BH Câmpus I,Estudos de Linguagens,CEFET,Pós-Graduação
-556,Integrado,BH Câmpus II,Edificações,CEFET,Técnico
-557,Integrado,BH Câmpus II,Eletrônica,CEFET,Técnico
-558,Integrado,BH Câmpus II,Eletrotécnica,CEFET,Técnico
-559,Integrado,BH Câmpus II,Equipamentos Biomédicos,CEFET,Técnico
-560,Integrado,BH Câmpus II,Rede de Computadores,CEFET,Técnico
-561,Bacharelado,BH Câmpus II,Administração,CEFET,Superior
-562,Bacharelado,BH Câmpus II,Engenharia de Computação,CEFET,Superior
-563,Bacharelado,BH Câmpus II,Engenharia Elétrica,CEFET,Superior
-564,Bacharelado,BH Câmpus II,Engenharia Mecânica,CEFET,Superior
-565,Bacharelado,BH Câmpus II,Engenharia de Produção Civil,CEFET,Superior
-566,Licenciatura,BH Câmpus II,Programa de Formação Pedagógica de Docentes,CEFET,Superior
-567,Especialização lato sensu,BH Câmpus II,Especialização Administração da Produção e Automação Industrial,CEFET,Pós-Graduação
-568,Especialização lato sensu,BH Câmpus II,Banco de Dados,CEFET,Pós-Graduação
-569,Especialização lato sensu,BH Câmpus II,Especialização,CEFET,Pós-Graduação
-570,Especialização lato sensu,BH Câmpus II,Especialização,CEFET,Pós-Graduação
-571,Especialização lato sensu,BH Câmpus II,Linguagem e Tecnologia,CEFET,Pós-Graduação
-572,Especialização lato sensu,BH Câmpus II,Especialização,CEFET,Pós-Graduação
-573,Especialização lato sensu,BH Câmpus II,Processamento de Materiais Metálicos,CEFET,Pós-Graduação
-574,Especialização lato sensu,BH Câmpus II,Sistemas Eletrônicos e de Automação Industrial,CEFET,Pós-Graduação
-575,Especialização lato sensu,BH Câmpus II,Tecnologias de Sistema de Informação,CEFET,Pós-Graduação
-576,Mestrado Profissional stricto sensu,BH Câmpus II,Administração,CEFET,Pós-Graduação
-577,Mestrado Profissional stricto sensu,BH Câmpus II,Engenharia Civil,CEFET,Pós-Graduação
-578,Mestrado Profissional stricto sensu,BH Câmpus II,Engenharia Elétrica,CEFET,Pós-Graduação
-579,Mestrado Profissional stricto sensu,BH Câmpus II,Engenharia de Energia,CEFET,Pós-Graduação
-580,Mestrado Profissional stricto sensu,BH Câmpus II,Educação Tecnológica,CEFET,Pós-Graduação
-581,Mestrado Profissional stricto sensu,BH Câmpus II,Modelagem Matemática e Computacional,CEFET,Pós-Graduação
-582,Mestrado Profissional stricto sensu,BH Câmpus II,Mestrado Profissional,CEFET,Pós-Graduação
-583,Doutorado stricto sensu,BH Câmpus II,Engenharia Civil,CEFET,Pós-Graduação
-584,Doutorado stricto sensu,BH Câmpus II,Modelagem Matemática e Computacional,CEFET,Pós-Graduação
-585,Especialização lato sensu,BH Câmpus VI,Transportes e Trânsito,CEFET,Pós-Graduação
-586,Mestrado Profissional stricto sensu,BH Câmpus VI,Química,CEFET,Pós-Graduação
-587,EAD,Contagem,Meio Ambiente,CEFET,Técnico
-588,EAD,Contagem,Informática para Internet,CEFET,Técnico
-589,Integrado,Contagem,Controle Ambiental,CEFET,Técnico
-590,Integrado,Contagem,Eletroeletrônica,CEFET,Técnico
-591,Integrado,Contagem,Informática,CEFET,Técnico
-592,Especialização lato sensu,Contagem,Engenharia Software,CEFET,Pós-Graduação
-593,Integrado,Curvelo,Edificações,CEFET,Técnico
-594,Integrado,Curvelo,Eletrotécnica,CEFET,Técnico
-595,Integrado,Curvelo,Meio Ambiente,CEFET,Técnico
-596,Bacharelado,Curvelo,Engenharia Civil,CEFET,Superior
-597,Integrado,Divinópolis,Eletromecânica,CEFET,Técnico
-598,Integrado,Divinópolis,Informática,CEFET,Técnico
-599,Subsequente,Divinópolis,Informática para Internet,CEFET,Técnico
-600,Bacharelado,Divinópolis,Design de Moda,CEFET,Superior
-601,Bacharelado,Divinópolis,Engenharia de Computação,CEFET,Superior
-602,Bacharelado,Divinópolis,Engenharia Mecatrônica,CEFET,Superior
-603,Especialização lato sensu,Divinópolis,Sistemas e Dispositivos Mecatrônicos,CEFET,Pós-Graduação
-604,EAD,Leopoldina,Meio Ambiente,CEFET,Técnico
-605,EAD,Leopoldina,Informática para Internet,CEFET,Técnico
-606,EAD,Leopoldina,Eletroeletrônica,CEFET,Técnico
-607,Integrado,Leopoldina,Eletromecânica,CEFET,Técnico
-608,Integrado,Leopoldina,Eletrotécnica,CEFET,Técnico
-609,Integrado,Leopoldina,Informática,CEFET,Técnico
-610,Bacharelado,Leopoldina,Engenharia de Computação,CEFET,Superior
-611,Bacharelado,Leopoldina,Engenharia de Controle e Automação,CEFET,Superior
-612,Especialização lato sensu,Leopoldina,Internet das Coisas,CEFET,Pós-Graduação
-613,EAD,Nepomuceno,Eletroeletrônica,CEFET,Técnico
-614,EAD,Nepomuceno,Informática para Internet,CEFET,Técnico
-615,EAD,Nepomuceno,Meio Ambiente,CEFET,Técnico
-616,Integrado,Nepomuceno,Mecatrônica,CEFET,Técnico
-617,Integrado,Nepomuceno,Rede de Computadores,CEFET,Técnico
-618,Bacharelado,Nepomuceno,Engenharia Elétrica,CEFET,Superior
-619,EAD,Timóteo,Eletroeletrônica,CEFET,Técnico
-620,EAD,Timóteo,Informática para Internet,CEFET,Técnico
-621,EAD,Timóteo,Meio Ambiente,CEFET,Técnico
-622,Integrado,Timóteo,Informática,CEFET,Técnico
-623,Concomitante,Timóteo,Metalurgia,CEFET,Técnico
-624,Integrado,Timóteo,Química,CEFET,Técnico
-625,Bacharelado,Timóteo,Engenharia de Computação,CEFET,Superior
-626,EAD,Varginha,Meio Ambiente,CEFET,Técnico
-627,EAD,Varginha,Eletroeletrônica,CEFET,Técnico
-628,EAD,Varginha,Informática para Internet,CEFET,Técnico
-629,Integrado,Varginha,Edificações,CEFET,Técnico
-630,Integrado,Varginha,Informática,CEFET,Técnico
-631,Integrado,Varginha,Mecatrônica,CEFET,Técnico
-632,Bacharelado,Varginha,Engenharia Civil,CEFET,Superior
-633,Especialização lato sensu,Varginha,Engenharia de Sistemas,CEFET,Pós-Graduação
-634,Especialização lato sensu,Varginha,Engenharia de Processos Industriais Automatizados,CEFET,Pós-Graduação
-635,Especialização lato sensu,Varginha,Desenvolvimento de Sistemas,CEFET,Pós-Graduação
+0,"['Integrado', 'Subsequente']",Congonhas,Mecânica,IFMG,Técnico
+1,"['Integrado', 'Subsequente']",Congonhas,Edificações,IFMG,Técnico
+2,"['Integrado', 'Subsequente']",Congonhas,Mineração,IFMG,Técnico
+3,['Bacharelado'],Congonhas,Engenharia de Produção,IFMG,Superior
+4,['Bacharelado'],Congonhas,Engenharia Mecânica,IFMG,Superior
+5,['Licenciatura'],Congonhas,Física,IFMG,Superior
+6,['Licenciatura'],Congonhas,Letras,IFMG,Superior
+7,"['Integrado', 'Subsequente']",Conselheiro Lafaiete,Eletrotécnica,IFMG,Técnico
+8,"['Integrado', 'Subsequente']",Conselheiro Lafaiete,Mecânica,IFMG,Técnico
+9,['Integrado'],Governador Valadares,Edificações,IFMG,Técnico
+10,['Integrado'],Governador Valadares,Meio Ambiente,IFMG,Técnico
+11,"['Integrado', 'Subsequente']",Governador Valadares,Segurança do Trabalho,IFMG,Técnico
+12,['Subsequente'],Governador Valadares,Serviços Jurídicos,IFMG,Técnico
+13,['Bacharelado'],Governador Valadares,Engenharia Ambiental e Sanitária,IFMG,Superior
+14,['Bacharelado'],Governador Valadares,Engenharia de Produção,IFMG,Superior
+15,['Bacharelado'],Governador Valadares,Engenharia Civil,IFMG,Superior
+16,['Tecnologia'],Governador Valadares,Gestão Ambiental,IFMG,Superior
+17,['Especialização lato sensu'],Governador Valadares,Engenharia de Segurança do Trabalho,IFMG,Pós-Graduação
+18,['Subsequente'],Piumhi,Edificações,IFMG,Técnico
+19,['Bacharelado'],Piumhi,Engenharia Civil,IFMG,Superior
+20,['Integrado'],Ouro Branco,Administração,IFMG,Técnico
+21,['Integrado'],Ouro Branco,Informática,IFMG,Técnico
+22,['Integrado'],Ouro Branco,Metalurgia,IFMG,Técnico
+23,['Bacharelado'],Ouro Branco,Administração,IFMG,Superior
+24,['Bacharelado'],Ouro Branco,Engenharia Metalúrgica,IFMG,Superior
+25,['Bacharelado'],Ouro Branco,Sistemas de Informação,IFMG,Superior
+26,['Licenciatura'],Ouro Branco,Computação,IFMG,Superior
+27,['Licenciatura'],Ouro Branco,Pedagogia,IFMG,Superior
+28,['Mestrado Profissional stricto sensu'],Ouro Branco,Educação Profissional e Tecnológica,IFMG,Pós-Graduação
+29,['Subsequente'],Ipatinga,Segurança do Trabalho,IFMG,Técnico
+30,['Subsequente'],Ipatinga,Mecânica,IFMG,Técnico
+31,['Subsequente'],Ipatinga,Eletrotécnica,IFMG,Técnico
+32,['Bacharelado'],Ipatinga,Engenharia Elétrica,IFMG,Superior
+33,['FIC'],Ouro Preto,Design de Joias,IFMG,FIC nível intermediário
+34,['FIC'],Ouro Preto,Joalheria Artesanal,IFMG,FIC módulo básico
+35,['FIC'],Ouro Preto,Lapidação de Gemas,IFMG,FIC módulo básico
+36,['FIC'],Ouro Preto,Leitura e Produção Textual,IFMG,FIC módulo básico
+37,['FIC'],Ouro Preto,LIBRAS,IFMG,FIC módulo básico
+38,['FIC'],Ouro Preto,Planejamento de Lavra de Mina com o Software Micromine,IFMG,FIC módulo básico
+39,['FIC'],Ouro Preto,Tecnologia Cervejeira,IFMG,FIC módulo básico
+40,['FIC'],Ouro Preto,Vitrines Temáticas para Joalheria,IFMG,FIC módulo básico
+41,['EAD'],Ouro Preto,Automação Industrial,IFMG,Técnico
+42,['EAD'],Ouro Preto,Controle Ambiental,IFMG,Técnico
+43,['EAD'],Ouro Preto,Edificações,IFMG,Técnico
+44,['EAD'],Ouro Preto,Eletroeletrônica,IFMG,Técnico
+45,['EAD'],Ouro Preto,Hospedagem,IFMG,Técnico
+46,['EAD'],Ouro Preto,Metalurgia,IFMG,Técnico
+47,['EAD'],Ouro Preto,Serviços Públicos,IFMG,Técnico
+48,['Integrado'],Ouro Preto,Administração,IFMG,Técnico
+49,['Integrado'],Ouro Preto,Automação Industrial,IFMG,Técnico
+50,"['Integrado', 'Subsequente']",Ouro Preto,Edificações,IFMG,Técnico
+51,"['Integrado', 'Subsequente']",Ouro Preto,Metalurgia,IFMG,Técnico
+52,"['Integrado', 'Subsequente']",Ouro Preto,Mineração,IFMG,Técnico
+53,['Subsequente'],Ouro Preto,Meio Ambiente,IFMG,Técnico
+54,['Subsequente'],Ouro Preto,Segurança do Trabalho,IFMG,Técnico
+55,['Tecnologia'],Ouro Preto,Conservação e Restauro,IFMG,Superior
+56,['Tecnologia'],Ouro Preto,Gastronomia,IFMG,Superior
+57,['Tecnologia'],Ouro Preto,Gestão da Qualidade,IFMG,Superior
+58,['Licenciatura'],Ouro Preto,Física,IFMG,Superior
+59,['Licenciatura'],Ouro Preto,Geografia,IFMG,Superior
+60,['Especialização lato sensu'],Ouro Preto,Educação Matemática,IFMG,Pós-Graduação
+61,['Integrado'],Itapirito,Automação Industrial,IFMG,Técnico
+62,['Subsequente'],Itapirito,Eletroeletrônica,IFMG,Técnico
+63,['Bacharelado'],Itapirito,Engenharia Eletrônica,IFMG,Superior
+64,['Integrado'],Ribeirão das Neves,Administração,IFMG,Técnico
+65,['Integrado'],Ribeirão das Neves,Informática,IFMG,Técnico
+66,['Integrado'],Ribeirão das Neves,Eletroeletrônica,IFMG,Técnico
+67,['Tecnologia'],Ribeirão das Neves,Processos Gerenciais,IFMG,Superior
+68,['Bacharelado'],Ribeirão das Neves,Administração,IFMG,Superior
+69,['Especialização lato sensu'],Ribeirão das Neves,Gestão Pública e Desenvolvimento Regional,IFMG,Pós-Graduação
+70,"['Integrado', 'Subsequente']",Ponte Nova,Administração,IFMG,Técnico
+71,"['Integrado', 'Subsequente']",Ponte Nova,Informática,IFMG,Técnico
+72,['Integrado'],Sabará,Administração,IFMG,Técnico
+73,['Integrado'],Sabará,Informática,IFMG,Técnico
+74,['Integrado'],Sabará,Eletrônica,IFMG,Técnico
+75,['Bacharelado'],Sabará,Sistemas de Informação,IFMG,Superior
+76,['Bacharelado'],Sabará,Engenharia de Controle e Automação,IFMG,Superior
+77,['Tecnologia'],Sabará,Logística,IFMG,Superior
+78,['Tecnologia'],Sabará,Processos Gerenciais,IFMG,Superior
+79,['Integrado'],Formiga,Administração,IFMG,Técnico
+80,['Integrado'],Formiga,Eletrotécnica,IFMG,Técnico
+81,['Integrado'],Formiga,Informática,IFMG,Técnico
+82,['Bacharelado'],Formiga,Administração,IFMG,Superior
+83,['Bacharelado'],Formiga,Ciência da Computação,IFMG,Superior
+84,['Bacharelado'],Formiga,Engenharia Elétrica,IFMG,Superior
+85,['Licenciatura'],Formiga,Matemática,IFMG,Superior
+86,['Tecnologia'],Formiga,Gestão Financeira,IFMG,Superior
+87,['Integrado'],Santa Luzia,Edificações,IFMG,Técnico
+88,['Subsequente'],Santa Luzia,Paisagismo,IFMG,Técnico
+89,['Subsequente'],Santa Luzia,Segurança do Trabalho,IFMG,Técnico
+90,['Bacharelado'],Santa Luzia,Arquitetura e Urbanismo,IFMG,Superior
+91,['Tecnologia'],Santa Luzia,Design de Interiores,IFMG,Superior
+92,['Bacharelado'],Santa Luzia,Engenharia Civil,IFMG,Superior
+93,['Integrado'],Bambuí,Administração,IFMG,Técnico
+94,"['Integrado', 'Subsequente']",Bambuí,Agropecuária,IFMG,Técnico
+95,['Integrado'],Bambuí,Informática,IFMG,Técnico
+96,"['Integrado', 'Subsequente']",Bambuí,Manutenção Automotiva,IFMG,Técnico
+97,['Integrado'],Bambuí,Meio Ambiente,IFMG,Técnico
+98,['Bacharelado'],Bambuí,Administração,IFMG,Superior
+99,['Bacharelado'],Bambuí,Agronomia,IFMG,Superior
+100,['Bacharelado'],Bambuí,Engenharia de Alimentos,IFMG,Superior
+101,['Bacharelado'],Bambuí,Engenharia de Computação,IFMG,Superior
+102,['Bacharelado'],Bambuí,Engenharia de Produção,IFMG,Superior
+103,['Bacharelado'],Bambuí,Medicina Veterinária,IFMG,Superior
+104,['Bacharelado'],Bambuí,Zootecnia,IFMG,Superior
+105,['Licenciatura'],Bambuí,Física,IFMG,Superior
+106,['Licenciatura'],Bambuí,Ciências Biológicas,IFMG,Superior
+107,['Mestrado Profissional stricto sensu'],Bambuí,Sustentabilidade e Tecnologia Ambiental,IFMG,Pós-Graduação
+108,['EAD'],São João Evangelista,Artesanato,IFMG,Técnico
+109,['EAD'],São João Evangelista,Florestas,IFMG,Técnico
+110,['EAD'],São João Evangelista,Reciclagem,IFMG,Técnico
+111,['Integrado'],São João Evangelista,Agropecuária,IFMG,Técnico
+112,['Integrado'],São João Evangelista,Técnico,IFMG,Técnico
+113,['Integrado'],São João Evangelista,Nutrição e Dietética,IFMG,Técnico
+114,['Subsequente'],São João Evangelista,Agrimensura,IFMG,Técnico
+115,['Bacharelado'],São João Evangelista,Administração,IFMG,Superior
+116,['Bacharelado'],São João Evangelista,Agronomia,IFMG,Superior
+117,['Bacharelado'],São João Evangelista,Engenharia Florestal,IFMG,Superior
+118,['Bacharelado'],São João Evangelista,Sistemas de Informação,IFMG,Superior
+119,['Licenciatura'],São João Evangelista,Matemática,IFMG,Superior
+120,['Especialização lato sensu'],São João Evangelista,Meio Ambiente,IFMG,Pós-Graduação
+121,['Especialização lato sensu'],São João Evangelista,Especialização,IFMG,Pós-Graduação
+122,['EAD'],Betim,Análises Químicas,IFMG,Técnico
+123,['EAD'],Betim,Informática para Internet,IFMG,Técnico
+124,"['EAD', 'Integrado']",Betim,Mecânica,IFMG,Técnico
+125,['Integrado'],Betim,Automação,IFMG,Técnico
+126,['Integrado'],Betim,Química,IFMG,Técnico
+127,['Bacharelado'],Betim,Engenharia de Controle e Automação,IFMG,Superior
+128,['Bacharelado'],Betim,Engenharia Mecânica,IFMG,Superior
+129,['EAD'],Arcos,Estratégias de Ensino e Aprendizagem,IFMG,Formação Profissional
+130,['Formação Profissional'],Arcos,Informática para Terceira Idade,IFMG,Formação Profissional
+131,['Formação Profissional'],Arcos,modelagem 3D,IFMG,Formação Profissional
+132,['Formação Profissional'],Arcos,Inglês Básico I,IFMG,Formação Profissional
+133,['Bacharelado'],Arcos,Engenharia Mecânica,IFMG,Superior
+134,['Especialização lato sensu'],Arcos,Docência,IFMG,Pós-Graduação
+135,['Integrado'],Ibirité,Automação Industrial,IFMG,Técnico
+136,['Integrado'],Ibirité,Mecatrônica,IFMG,Técnico
+137,"['Integrado', 'Concomitante']",Ibirité,Sistemas de Energia Renovável,IFMG,Técnico
+138,['Bacharelado'],Ibirité,Engenharia de Controle e Automação,IFMG,Superior
+139,"['Integrado', 'Subsequente']",Carmo de Minas,Alimentos,IFSUL,Técnico
+140,['Integrado'],Carmo de Minas,Informática,IFSUL,Técnico
+141,"['Subsequente', 'EAD']",Carmo de Minas,Administração,IFSUL,Técnico
+142,['Integrado'],Inconfidentes,Agrimensura,IFSUL,Técnico
+143,['Integrado'],Inconfidentes,Agropecuária,IFSUL,Técnico
+144,['Integrado'],Inconfidentes,Alimentos,IFSUL,Técnico
+145,['Integrado'],Inconfidentes,Informática,IFSUL,Técnico
+146,['Tecnologia'],Inconfidentes,Gestão Ambiental,IFSUL,Superior
+147,['Tecnologia'],Inconfidentes,Redes de Computadores,IFSUL,Superior
+148,['Licenciatura'],Inconfidentes,Ciências Biológicas,IFSUL,Superior
+149,['Licenciatura'],Inconfidentes,Matemática,IFSUL,Superior
+150,['Licenciatura'],Inconfidentes,Educação do Campo - Área Ciências Agrárias,IFSUL,Superior
+151,['Licenciatura'],Inconfidentes,Pedagogia,IFSUL,Superior
+152,['Licenciatura'],Inconfidentes,História,IFSUL,Superior
+153,['Bacharelado'],Inconfidentes,Engenharia Ambiental,IFSUL,Superior
+154,['Bacharelado'],Inconfidentes,Engenharia Agronômica,IFSUL,Superior
+155,['Bacharelado'],Inconfidentes,Engenharia de Agrimensura e Cartográfica,IFSUL,Superior
+156,['Bacharelado'],Inconfidentes,Engenharia de Alimentos,IFSUL,Superior
+157,['Especialização lato sensu'],Inconfidentes,Educação Infantil,IFSUL,Pós-Graduação
+158,['Especialização lato sensu'],Inconfidentes,Educação Matemática,IFSUL,Pós-Graduação
+159,['Especialização lato sensu'],Inconfidentes,Gestão Ambiental,IFSUL,Pós-Graduação
+160,['EAD'],Machado,Alimentação Escolar,IFSUL,Técnico
+161,['EAD'],Machado,Agroindústria,IFSUL,Técnico
+162,['EAD'],Machado,Geoprocessamento,IFSUL,Técnico
+163,['EAD'],Machado,Redes de Computadores,IFSUL,Técnico
+164,['EAD'],Machado,Segurança do Trabalho,IFSUL,Técnico
+165,['EAD'],Machado,Vendas,IFSUL,Técnico
+166,['FIC EAD'],Machado,Saúde,IFSUL,FIC EAD
+167,['FIC EAD'],Machado,Fases do Desenvolvimento Infantil,IFSUL,FIC EAD
+168,"['Integrado', 'Subsequente']",Machado,Agropecuária,IFSUL,Técnico
+169,['Integrado'],Machado,Alimentos,IFSUL,Técnico
+170,['Integrado'],Machado,Informática,IFSUL,Técnico
+171,['Subsequente'],Machado,Administração,IFSUL,Técnico
+172,['Subsequente'],Machado,Segurança do Trabalho,IFSUL,Técnico
+173,['Bacharelado'],Machado,Administração,IFSUL,Superior
+174,['Bacharelado'],Machado,Agronomia,IFSUL,Superior
+175,['Bacharelado'],Machado,Ciência e Tecnologia dos Alimentos,IFSUL,Superior
+176,['Licenciatura'],Machado,Ciências Biológicas,IFSUL,Superior
+177,['Licenciatura'],Machado,Computação,IFSUL,Superior
+178,['Bacharelado'],Machado,Sistemas de Informação,IFSUL,Superior
+179,['Bacharelado'],Machado,Zootecnia,IFSUL,Superior
+180,['Mestrado Profissional stricto sensu'],Machado,Alimentos,IFSUL,Pós-Graduação
+181,"['Integrado', 'Subsequente']",Muzambinho,Agropecuária,IFSUL,Técnico
+182,['Subsequente'],Muzambinho,Alimentos,IFSUL,Técnico
+183,"['Integrado', 'Subsequente']",Muzambinho,Informática,IFSUL,Técnico
+184,['Subsequente'],Muzambinho,Administração,IFSUL,Técnico
+185,['Subsequente'],Muzambinho,Contabilidade,IFSUL,Técnico
+186,['Subsequente'],Muzambinho,Edificações,IFSUL,Técnico
+187,['Subsequente'],Muzambinho,Enfermagem,IFSUL,Técnico
+188,['Subsequente'],Muzambinho,Segurança do Trabalho,IFSUL,Técnico
+189,['Bacharelado'],Muzambinho,Engenharia Agronômica,IFSUL,Superior
+190,['Bacharelado'],Muzambinho,Ciência da Computação,IFSUL,Superior
+191,"['Bacharelado', 'Licenciatura']",Muzambinho,Educação Física,IFSUL,Superior
+192,['Bacharelado'],Muzambinho,Medicina Veterinária,IFSUL,Superior
+193,['Licenciatura'],Muzambinho,Ciências Biológicas,IFSUL,Superior
+194,['Tecnologia'],Muzambinho,Cafeicultura,IFSUL,Superior
+195,['Especialização lato sensu'],Muzambinho,Gestão Pública e Desenvolvimento Regional,IFSUL,Pós-Graduação
+196,['Integrado'],Passos,Comunicação Visual,IFSUL,Técnico
+197,['Integrado'],Passos,Informática,IFSUL,Técnico
+198,['Integrado'],Passos,Produção de Moda,IFSUL,Técnico
+199,['Subsequente'],Passos,Enfermagem,IFSUL,Técnico
+200,['Bacharelado'],Passos,Administração de Empresas,IFSUL,Superior
+201,['Bacharelado'],Passos,Ciência da Computação,IFSUL,Superior
+202,['Licenciatura'],Passos,Matemática,IFSUL,Superior
+203,['Licenciatura'],Passos,Design de Moda,IFSUL,Superior
+204,['Tecnologia'],Passos,Produção Publicitária,IFSUL,Superior
+205,['Especialização lato sensu'],Passos,Ensino de Humanidades,IFSUL,Pós-Graduação
+206,['Integrado'],Poços de Caldas,Informática,IFSUL,Técnico
+207,"['Integrado', 'Subsequente']",Poços de Caldas,Eletrotécnica,IFSUL,Técnico
+208,['Subsequente'],Poços de Caldas,Administração,IFSUL,Técnico
+209,['Subsequente'],Poços de Caldas,Edificações,IFSUL,Técnico
+210,['Bacharelado'],Poços de Caldas,Engenharia de Computação,IFSUL,Superior
+211,['Licenciatura'],Poços de Caldas,Ciências Biológicas,IFSUL,Superior
+212,['Licenciatura'],Poços de Caldas,Geografia,IFSUL,Superior
+213,['Tecnologia'],Poços de Caldas,Gestão Ambiental,IFSUL,Superior
+214,['Tecnologia'],Poços de Caldas,Gestão Comercial,IFSUL,Superior
+215,['Especialização lato sensu'],Poços de Caldas,Informática na Educação,IFSUL,Pós-Graduação
+216,['Especialização lato sensu'],Poços de Caldas,Formação de Lideranças para Gestão Avançada de Mercado,IFSUL,Pós-Graduação
+217,['Mestrado Profissional stricto sensu'],Poços de Caldas,Educação Profissional e Tecnológica,IFSUL,Mestrado
+218,['EAD'],Pouso Alegre,Análises Químicas,IFSUL,Técnico
+219,['EAD'],Pouso Alegre,Logística,IFSUL,Técnico
+220,['EAD'],Pouso Alegre,Qualidade,IFSUL,Técnico
+221,"['Integrado', 'Subsequente']",Pouso Alegre,Administração,IFSUL,Técnico
+222,"['Integrado', 'Subsequente']",Pouso Alegre,Edificações,IFSUL,Técnico
+223,"['Integrado', 'Subsequente']",Pouso Alegre,Informática,IFSUL,Técnico
+224,['Subsequente'],Pouso Alegre,Química,IFSUL,Técnico
+225,['Subsequente'],Pouso Alegre,Segurança do Trabalho,IFSUL,Técnico
+226,['Bacharelado'],Pouso Alegre,Engenharia Civil,IFSUL,Superior
+227,['Bacharelado'],Pouso Alegre,Engenharia Química,IFSUL,Superior
+228,['Licenciatura'],Pouso Alegre,Matemática,IFSUL,Superior
+229,['Licenciatura'],Pouso Alegre,Química,IFSUL,Superior
+230,['Especialização lato sensu'],Pouso Alegre,Ciências da Natureza (química e física),IFSUL,Pós-Graduação
+231,['Especialização lato sensu'],Pouso Alegre,Engenharia de Segurança do Trabalho e Higiene de Segurança do Trabalho,IFSUL,Pós-Graduação
+232,['Especialização lato sensu'],Pouso Alegre,Educação Matemática,IFSUL,Pós-Graduação
+233,"['Integrado', 'Subsequente']",Três Corações,Administração,IFSUL,Técnico
+234,"['Integrado', 'Subsequente']",Três Corações,Informação,IFSUL,Técnico
+235,"['Integrado', 'Subsequente']",Três Corações,Mecânica,IFSUL,Técnico
+236,['Subsequente'],Três Corações,Comércio,IFSUL,Técnico
+237,['Subsequente'],Três Corações,Logística,IFSUL,Técnico
+238,['Especialização técnica'],Três Corações,Urgência e Emergência,IFSUL,Pós-Técnico
+239,['Especialização lato sensu'],Três Corações,Gestão Estratégica de Negócios,IFSUL,Pós-Graduação
+240,['Especialização lato sensu'],Três Corações,Ensino de Ciências Naturais e Matemática,IFSUL,Pós-Graduação
+241,['EAD'],Barbacena,Secretariado,IFSudeste,Técnico
+242,['EAD'],Barbacena,Leite e Derivados,IFSudeste,Técnico
+243,['EAD'],Barbacena,Informática para Internet,IFSudeste,Técnico
+244,['EAD'],Barbacena,Alimentação Escolar,IFSudeste,Técnico
+245,"['EAD', 'Integrado']",Barbacena,Agropecuária,IFSudeste,Técnico
+246,['Integrado'],Barbacena,Agroindústria,IFSudeste,Técnico
+247,['Integrado'],Barbacena,Hospedagem,IFSudeste,Técnico
+248,['Integrado'],Barbacena,Química,IFSudeste,Técnico
+249,"['Subsequente', 'Concomitante']",Barbacena,Informática,IFSudeste,Técnico
+250,"['Subsequente', 'Concomitante']",Barbacena,Enfermagem,IFSudeste,Técnico
+251,"['Subsequente', 'Concomitante']",Barbacena,Meio Ambiente,IFSudeste,Técnico
+252,"['Subsequente', 'Concomitante']",Barbacena,Nutrição e Dietética,IFSudeste,Técnico
+253,"['Subsequente', 'Concomitante']",Barbacena,Segurança do Trabalho,IFSudeste,Técnico
+254,['Bacharelado'],Barbacena,Administração,IFSudeste,Superior
+255,['Bacharelado'],Barbacena,Agronomia,IFSudeste,Superior
+256,['Tecnologia'],Barbacena,Alimentos,IFSudeste,Superior
+257,['Licenciatura'],Barbacena,Ciências Biológicas,IFSudeste,Superior
+258,['Licenciatura'],Barbacena,Educação Física,IFSudeste,Superior
+259,['Tecnologia'],Barbacena,Gestão Ambiental,IFSudeste,Superior
+260,['Tecnologia'],Barbacena,Gestão de Turismo,IFSudeste,Superior
+261,['Bacharelado'],Barbacena,Nutrição,IFSudeste,Superior
+262,['Licenciatura'],Barbacena,Química,IFSudeste,Superior
+263,['Tecnologia'],Barbacena,Sistemas para Internet,IFSudeste,Superior
+264,['Especialização lato sensu'],Barbacena,Planejamento e Gestão de Áreas Naturais Protegidas,IFSudeste,Pós-Graduação
+265,['EAD'],Juiz de Fora,Administração,IFSudeste,Técnico
+266,['EAD'],Juiz de Fora,Enfermagem,IFSudeste,Técnico
+267,"['EAD', 'Integrado']",Juiz de Fora,Eventos,IFSudeste,Técnico
+268,['EAD'],Juiz de Fora,Finanças,IFSudeste,Técnico
+269,['EAD'],Juiz de Fora,Multimeios Didáticos,IFSudeste,Técnico
+270,['EAD'],Juiz de Fora,Reciclagem,IFSudeste,Técnico
+271,['EAD'],Juiz de Fora,Segurança do Trabalho,IFSudeste,Técnico
+272,['EAD'],Juiz de Fora,Serviços Públicos,IFSudeste,Técnico
+273,['EAD'],Juiz de Fora,Transações Imobiliárias,IFSudeste,Técnico
+274,"['Subsequente', 'Concomitante']",Juiz de Fora,Design de Móveis,IFSudeste,Técnico
+275,"['Subsequente', 'Concomitante']",Juiz de Fora,Eletrônica,IFSudeste,Técnico
+276,['PROEJA'],Juiz de Fora,Secretariado,IFSudeste,Técnico (proeja)
+277,['Integrado'],Juiz de Fora,Transações Imobiliárias,IFSudeste,Técnico
+278,['Integrado'],Juiz de Fora,Transporte Rodoviário,IFSudeste,Técnico
+279,['Bacharelado'],Juiz de Fora,Engenharia Mecatrônica,IFSudeste,Superior
+280,['Bacharelado'],Juiz de Fora,Engenharia Metalúrgica,IFSudeste,Superior
+281,['Licenciatura'],Juiz de Fora,Física,IFSudeste,Superior
+282,['Bacharelado'],Juiz de Fora,Sistemas de Informação,IFSudeste,Superior
+283,['Especialização lato sensu'],Juiz de Fora,Metodologia da Educação Física Escolar,IFSudeste,Pós-Graduação
+284,['Especialização lato sensu'],Juiz de Fora,Especialização emSustentabilidade na Construção Civil,IFSudeste,Pós-Graduação
+285,['Mestrado Profissional stricto sensu'],Juiz de Fora,Ensino de Física,IFSudeste,Pós-Graduação
+286,"['Subsequente', 'Concomitante']",Manhuaçu,Cafeicultura,IFSudeste,Técnico
+287,"['Subsequente', 'Concomitante']",Manhuaçu,Informática,IFSudeste,Técnico
+288,['Especialização lato sensu'],Manhuaçu,Cafeicultura Sustentável,IFSudeste,Pós-Graduação
+289,['PROEJA'],Muriaé,Orientação Comunitária,IFSudeste,Técnico (proeja)
+290,"['EAD', 'Integrado']",Muriaé,Agroecologia,IFSudeste,Técnico
+291,['Integrado'],Muriaé,Eletrotécnica,IFSudeste,Técnico
+292,['Integrado'],Muriaé,Informática,IFSudeste,Técnico
+293,"['Subsequente', 'Concomitante']",Muriaé,Eletromecânica,IFSudeste,Técnico
+294,"['Subsequente', 'Concomitante']",Muriaé,Secretariado,IFSudeste,Técnico
+295,"['Subsequente', 'Concomitante']",Muriaé,Meio Ambiente,IFSudeste,Técnico
+296,['Bacharelado'],Muriaé,Administração,IFSudeste,Superior
+297,['Tecnologia'],Muriaé,Design de Moda,IFSudeste,Superior
+298,['EAD'],Rio Pomba,Alimentos,IFSudeste,Técnico
+299,['EAD'],Rio Pomba,Técnico de Equideocultura,IFSudeste,Técnico
+300,['EAD'],Rio Pomba,Gerência de Saúde,IFSudeste,Técnico
+301,['EAD'],Rio Pomba,Logística,IFSudeste,Técnico
+302,['EAD'],Rio Pomba,Meio Ambiente,IFSudeste,Técnico
+303,['EAD'],Rio Pomba,Redes de Computadores,IFSudeste,Técnico
+304,['EAD'],Rio Pomba,Secretaria Escolar,IFSudeste,Técnico
+305,['EAD'],Rio Pomba,Zootecnia,IFSudeste,Técnico
+306,['Integrado'],Rio Pomba,Agropecuária,IFSudeste,Técnico
+307,['Integrado'],Rio Pomba,Alimentos,IFSudeste,Técnico
+308,['Integrado'],Rio Pomba,Florestas,IFSudeste,Técnico
+309,['Integrado'],Rio Pomba,Informática,IFSudeste,Técnico
+310,['Integrado'],Rio Pomba,Meio Ambiente,IFSudeste,Técnico
+311,['Integrado'],Rio Pomba,Zootecnia,IFSudeste,Técnico
+312,"['Subsequente', 'Concomitante']",Rio Pomba,Administração,IFSudeste,Técnico
+313,"['Subsequente', 'Concomitante']",Rio Pomba,Gerência de Saúde,IFSudeste,Técnico
+314,"['Subsequente', 'Concomitante']",Rio Pomba,Técnico,IFSudeste,Técnico
+315,"['Subsequente', 'Concomitante']",Rio Pomba,Segurança do Trabalho,IFSudeste,Técnico
+316,"['Subsequente', 'Concomitante']",Rio Pomba,Serviços Jurídicios,IFSudeste,Técnico
+317,"['Subsequente', 'Concomitante']",Rio Pomba,Vendas,IFSudeste,Técnico
+318,['Bacharelado'],Rio Pomba,Administração,IFSudeste,Superior
+319,['Bacharelado'],Rio Pomba,Agroecologia,IFSudeste,Superior
+320,['Bacharelado'],Rio Pomba,Ciência da Computação,IFSudeste,Superior
+321,['Bacharelado'],Rio Pomba,Ciência e Tecnologia de Alimentos,IFSudeste,Superior
+322,['Bacharelado'],Rio Pomba,Ciência e Tecnologia de Laticínios,IFSudeste,Superior
+323,['Licenciatura'],Rio Pomba,Educação Física,IFSudeste,Superior
+324,['Licenciatura'],Rio Pomba,Matemática,IFSudeste,Superior
+325,['Bacharelado'],Rio Pomba,Zootecnia,IFSudeste,Superior
+326,['Especialização lato sensu EAD'],Rio Pomba,Agroecologia,IFSudeste,Pós-Graduação
+327,['Especialização lato sensu EAD'],Rio Pomba,Docência na Educação Profissional e Tecnológica,IFSudeste,Pós-Graduação
+328,['Especialização lato sensu'],Rio Pomba,Especialização,IFSudeste,Pós-Graduação
+329,['Especialização lato sensu'],Rio Pomba,Ensino de Matemática e Física,IFSudeste,Pós-Graduação
+330,['Mestrado Profissional stricto sensu'],Rio Pomba,Ciência e Tecnologia de Alimentos,IFSudeste,Pós-Graduação
+331,['Mestrado Profissional stricto sensu'],Rio Pomba,Nutrição e Produção Animal,IFSudeste,Pós-Graduação
+332,"['Subsequente', 'Concomitante']",Santos Dumont,Guia de Turismo,IFSudeste,Técnico
+333,"['Subsequente', 'Concomitante']",Santos Dumont,Transporte de Cargas,IFSudeste,Técnico
+334,"['Subsequente', 'Concomitante']",Santos Dumont,Eletrotécnica,IFSudeste,Técnico
+335,['Licenciatura'],Santos Dumont,Matemática,IFSudeste,Superior
+336,"['Subsequente', 'Concomitante']",São João del-Rei,Administração,IFSudeste,Técnico
+337,"['Subsequente', 'Concomitante']",São João del-Rei,Controle Ambiental,IFSudeste,Técnico
+338,"['Subsequente', 'Concomitante']",São João del-Rei,Enfermagem,IFSudeste,Técnico
+339,"['Subsequente', 'Concomitante']",São João del-Rei,Informática,IFSudeste,Técnico
+340,"['Subsequente', 'Concomitante']",São João del-Rei,Segurança do Trabalho,IFSudeste,Técnico
+341,['Licenciatura'],São João del-Rei,Letras - Português e Espanhol,IFSudeste,Superior
+342,['Tecnologia'],São João del-Rei,Gestão de Recursos Humanos,IFSudeste,Superior
+343,['Tecnologia'],São João del-Rei,Gestão da Tecnologia da Informação,IFSudeste,Superior
+344,['Tecnologia'],São João del-Rei,Logística,IFSudeste,Superior
+345,['Especialização lato sensu'],São João del-Rei,Didática e Trabalho Docente,IFSudeste,Pós-Graduação
+346,['FIC'],Bom Sucesso,Administrador de Bancos de Dados,IFSudeste,FIC
+347,['FIC'],Bom Sucesso,Agricultor Orgânico,IFSudeste,FIC
+348,['FIC'],Bom Sucesso,Auxiliar de Fiscalização Ambiental,IFSudeste,FIC
+349,['FIC'],Bom Sucesso,Cadista para Construção Civil,IFSudeste,FIC
+350,['FIC'],Bom Sucesso,Inglês Básico I,IFSudeste,FIC
+351,['FIC'],Bom Sucesso,Instalador e Reparador de Redes de Computadores,IFSudeste,FIC
+352,['FIC'],Bom Sucesso,Operador de Computador,IFSudeste,FIC
+353,['FIC'],Bom Sucesso,Operador de Usina de Compostagem,IFSudeste,FIC
+354,['FIC'],Bom Sucesso,Programador WEB,IFSudeste,FIC
+355,"['Subsequente', 'Concomitante']",Bom Sucesso,Meio Ambiente,IFSudeste,Técnico
+356,"['Subsequente', 'Concomitante']",Bom Sucesso,Informática,IFSudeste,Técnico
+357,['Tecnologia'],Bom Sucesso,Gestão Ambiental,IFSudeste,Superior
+358,['Tecnologia'],Bom Sucesso,Análise e Desenvolvimento de Sistemas,IFSudeste,Superior
+359,['FIC'],Cataguases,Operador de Computador,IFSudeste,FIC
+360,['FIC'],Cataguases,Programador WEB,IFSudeste,FIC
+361,['FIC'],Cataguases,Programador de Dispositivos WEB,IFSudeste,FIC
+362,['FIC'],Ubá,Inglês Básico,IFSudeste,FIC
+363,['FIC'],Ubá,Programador WEB,IFSudeste,FIC
+364,['Concomitante'],Campina Verde,Administração,IFTM,Técnico
+365,['Concomitante'],Campina Verde,Agropecuária,IFTM,Técnico
+366,['Concomitante'],Campina Verde,Informática,IFTM,Técnico
+367,['Concomitante'],Ibiá,Informática,IFTM,Técnico
+368,['Concomitante'],Ibiá,Eletrotécnica,IFTM,Técnico
+369,['Concomitante'],Ibiá,Contabilidade,IFTM,Técnico
+370,['Integrado'],Ituiutaba,Agricultura,IFTM,Técnico
+371,['Integrado'],Ituiutaba,Informática,IFTM,Técnico
+372,['Integrado'],Ituiutaba,Química,IFTM,Técnico
+373,['Concomitante'],Ituiutaba,Administração,IFTM,Técnico
+374,['Concomitante'],Ituiutaba,Comércio,IFTM,Técnico
+375,['Concomitante'],Ituiutaba,Eletrotécnica,IFTM,Técnico
+376,"['Integrado', 'Concomitante']",Ituiutaba,Agroindústria,IFTM,Técnico
+377,['Bacharelado'],Ituiutaba,Ciência da Computação,IFTM,Superior
+378,['Tecnologia'],Ituiutaba,Processos Químicos,IFTM,Superior
+379,['Tecnologia'],Ituiutaba,Alimentos,IFTM,Superior
+380,['Tecnologia'],Ituiutaba,Análise e Desenvolvimento de Sistema,IFTM,Superior
+381,['Especialização lato sensu'],Ituiutaba,Ciências Ambientais,IFTM,Pós-Graduação
+382,['Especialização lato sensu'],Ituiutaba,Higiene e Segurança Alimentar,IFTM,Pós-Graduação
+383,['Especialização lato sensu'],Ituiutaba,Novas Tecnologias Aplicadas à Educação,IFTM,Pós-Graduação
+384,['Licenciatura'],João Pinheiro,Computação,IFTM,Superior
+385,['Licenciatura'],João Pinheiro,Matemática,IFTM,Superior
+386,['Concomitante'],Paracatu,Técnico,IFTM,Técnico
+387,['Integrado'],Paracatu,Informática,IFTM,Técnico
+388,"['Integrado', 'Concomitante']",Paracatu,Administração,IFTM,Técnico
+389,"['Integrado', 'Concomitante']",Paracatu,Eletrônica,IFTM,Técnico
+390,['Graduação'],Paracatu,Engenharia Elétrica,IFTM,Superior
+391,['Licenciatura'],Paracatu,Matemática,IFTM,Superior
+392,['Tecnologia'],Paracatu,Análise e Desenvolvimento de Sistemas,IFTM,Superior
+393,"['Integrado', 'Concomitante']",Patos de Minas,Mineração,IFTM,Técnico
+394,"['Integrado', 'Concomitante']",Patos de Minas,Logística,IFTM,Técnico
+395,"['Integrado', 'Concomitante']",Patos de Minas,Eletrotécnica,IFTM,Técnico
+396,['Concomitante'],Patrocínio,Contabilidade,IFTM,Técnico
+397,['Integrado'],Patrocínio,Administração,IFTM,Técnico
+398,['Integrado'],Patrocínio,Eletrônica,IFTM,Técnico
+399,['Integrado'],Patrocínio,Técnico,IFTM,Técnico
+400,['Tecnologia'],Patrocínio,Análise e Desenvolvimento de Sistemas,IFTM,Superior
+401,['Bacharelado'],Patrocínio,Engenharia Elétrica,IFTM,Superior
+402,['Tecnologia'],Patrocínio,Gestão Comercial,IFTM,Superior
+403,['Integrado'],Uberaba,Alimentos,IFTM,Técnico
+404,['Integrado'],Uberaba,Agropecuária,IFTM,Técnico
+405,"['Integrado', 'Concomitante']",Uberaba,Administração,IFTM,Técnico
+406,['Bacharelado'],Uberaba,Administração,IFTM,Superior
+407,['Bacharelado'],Uberaba,Zootecnia,IFTM,Superior
+408,['Bacharelado'],Uberaba,Engenharia Agronômica,IFTM,Superior
+409,['Licenciatura'],Uberaba,Ciências Biológicas,IFTM,Superior
+410,['Licenciatura'],Uberaba,Química,IFTM,Superior
+411,['Tecnologia'],Uberaba,Alimentos,IFTM,Superior
+412,['Especialização lato sensu'],Uberaba,Geoprocessamento,IFTM,Pós-Graduação
+413,['Especialização lato sensu'],Uberaba,Gestão Ambiental: Diagnóstico e Adequação Ambiental,IFTM,Pós-Graduação
+414,['Especialização lato sensu'],Uberaba,Saneamento Ambiental,IFTM,Pós-Graduação
+415,['Mestrado Profissional stricto sensu'],Uberaba,Ciência e Tecnologia de Alimentos,IFTM,Pós-Graduação
+416,['Mestrado Profissional stricto sensu'],Uberaba,Educação Tecnológica,IFTM,Pós-Graduação
+417,['Mestrado Profissional stricto sensu'],Uberaba,Produção Vegetal,IFTM,Pós-Graduação
+418,['Integrado'],Uberaba Parque Tecnológico,Computação Gráfica,IFTM,Técnico
+419,['Integrado'],Uberaba Parque Tecnológico,Eletrônica,IFTM,Técnico
+420,['Integrado'],Uberaba Parque Tecnológico,Técnico,IFTM,Técnico
+421,['Concomitante'],Uberaba Parque Tecnológico,Administração,IFTM,Técnico
+422,['Concomitante'],Uberaba Parque Tecnológico,Automação Industrial,IFTM,Técnico
+423,['Concomitante'],Uberaba Parque Tecnológico,Edificações,IFTM,Técnico
+424,['Concomitante'],Uberaba Parque Tecnológico,Informática para Internet,IFTM,Técnico
+425,['Concomitante'],Uberaba Parque Tecnológico,Segurança do Trabalho,IFTM,Técnico
+426,['Licenciatura (EAD)'],Uberaba Parque Tecnológico,Computação,IFTM,Superior
+427,['Licenciatura (EAD)'],Uberaba Parque Tecnológico,Letras - Português,IFTM,Superior
+428,['Licenciatura (EAD)'],Uberaba Parque Tecnológico,Matemática,IFTM,Superior
+429,['Bacharelado'],Uberaba Parque Tecnológico,Análise e Desenvolvimento de Sistemas,IFTM,Superior
+430,['Bacharelado'],Uberaba Parque Tecnológico,Engenharia de Computação,IFTM,Superior
+431,['Mestrado Profissional stricto sensu'],Uberaba Parque Tecnológico,Educação Profissional e Tecnológica - ProfEPT,IFTM,Pós-Graduação
+432,['Integrado'],Uberlândia,Alimentos,IFTM,Técnico
+433,['Integrado'],Uberlândia,Técnico,IFTM,Técnico
+434,['Integrado'],Uberlândia,Meio Ambiente,IFTM,Técnico
+435,['Concomitante'],Uberlândia,Agricultura,IFTM,Técnico
+436,"['Integrado', 'Concomitante']",Uberlândia,Agropecuária,IFTM,Técnico
+437,['Bacharelado'],Uberlândia,Engenharia Agronômica,IFTM,Superior
+438,['Tecnologia'],Uberlândia,Alimentos,IFTM,Superior
+439,['Especialização lato sensu'],Uberlândia,Processos Alimentícios,IFTM,Pós-Graduação
+440,['Integrado'],Uberlândia Centro,Administração,IFTM,Técnico
+441,['Integrado'],Uberlândia Centro,Computação Gráfica,IFTM,Técnico
+442,['Concomitante'],Uberlândia Centro,Redes de Computadores,IFTM,Técnico
+443,['Licenciatura'],Uberlândia Centro,Computação,IFTM,Superior
+444,['Tecnologia'],Uberlândia Centro,Logística,IFTM,Superior
+445,['Tecnologia'],Uberlândia Centro,Marketing,IFTM,Superior
+446,['Tecnologia'],Uberlândia Centro,Tecnologia para Sistemas para Internet,IFTM,Superior
+447,['Especialização lato sensu'],Uberlândia Centro,Análise e Desenvolvimento de Sistemas Aplicados à Gestão Empresarial,IFTM,Pós-Graduação
+448,['Especialização lato sensu'],Uberlândia Centro,Gestão de Negócios,IFTM,Pós-Graduação
+449,['Integrado'],Almenara,Zootecnia,IFNMG,Técnico
+450,['Subsequente'],Almenara,Enfermagem,IFNMG,Técnico
+451,"['Concomitante', 'Subsequente']",Almenara,Administração,IFNMG,Técnico
+452,['Tecnologia'],Almenara,Análise e Desenvolvivemento de Sistemas,IFNMG,Superior
+453,['Bacharelado'],Almenara,Agronomia,IFNMG,Superior
+454,['Tecnologia'],Almenara,Processos Gerenciais,IFNMG,Superior
+455,['Integrado'],Araçuaí,Agrimensura,IFNMG,Técnico
+456,['Integrado'],Araçuaí,Agroecologia,IFNMG,Técnico
+457,['Integrado'],Araçuaí,Informática,IFNMG,Técnico
+458,['Integrado'],Araçuaí,Meio Ambiente,IFNMG,Técnico
+459,['Subsequente'],Araçuaí,Enfermagem,IFNMG,Técnico
+460,"['Concomitante', 'Subsequente']",Araçuaí,Comércio,IFNMG,Técnico
+461,"['Concomitante', 'Subsequente']",Araçuaí,Técnico,IFNMG,Técnico
+462,['Bacharelado'],Araçuaí,Administração,IFNMG,Superior
+463,['Bacharelado'],Araçuaí,Engenharia Agrícola e Ambiental,IFNMG,Superior
+464,['Tecnologia'],Araçuaí,Análise e Desenvolvimento de Sistemas,IFNMG,Superior
+465,['Tecnologia'],Araçuaí,Gestão Ambiental,IFNMG,Superior
+466,['Integrado'],Arinos,Agropecuária,IFNMG,Técnico
+467,['Integrado'],Arinos,Informática,IFNMG,Técnico
+468,['Integrado'],Arinos,Meio Ambiente,IFNMG,Técnico
+469,"['Concomitante', 'Subsequente']",Arinos,Administração,IFNMG,Técnico
+470,"['Concomitante', 'Subsequente']",Arinos,Técnico,IFNMG,Técnico
+471,['Bacharelado'],Arinos,Administração,IFNMG,Superior
+472,['Bacharelado'],Arinos,Engenharia Agronômica,IFNMG,Superior
+473,['Tecnologia'],Arinos,Gestão Ambiental,IFNMG,Superior
+474,['Tecnologia'],Arinos,Produção de Grãos,IFNMG,Superior
+475,['Bacharelado'],Arinos,Sistemas de Informação,IFNMG,Superior
+476,['Integrado'],Diamantina,Informática,IFNMG,Técnico
+477,['Integrado'],Diamantina,Meio Ambiente,IFNMG,Técnico
+478,"['Concomitante', 'Subsequente']",Diamantina,Biotecnologia,IFNMG,Técnico
+479,"['Concomitante', 'Subsequente']",Diamantina,Teatro,IFNMG,Técnico
+480,['PROEJA'],Janaúba,Agente Comunitário de Saúde,IFNMG,Técnico (proeja)
+481,['Integrado'],Janaúba,Vigilância de Saúde,IFNMG,Técnico
+482,['Integrado'],Janaúba,Informática para Internet,IFNMG,Técnico
+483,"['Concomitante', 'Subsequente']",Janaúba,Administração,IFNMG,Técnico
+484,['PROEJA'],Januária,Comércio,IFNMG,Técnico (proeja)
+485,['Integrado'],Januária,Agropecuária,IFNMG,Técnico
+486,['Integrado'],Januária,Informática para Internet,IFNMG,Técnico
+487,['Integrado'],Januária,Meio Ambiente,IFNMG,Técnico
+488,"['Concomitante', 'Subsequente']",Januária,Edificações,IFNMG,Técnico
+489,"['Concomitante', 'Subsequente']",Januária,Informática,IFNMG,Técnico
+490,"['Concomitante', 'Subsequente']",Januária,Técnico,IFNMG,Técnico
+491,['Bacharelado'],Januária,Administração,IFNMG,Superior
+492,['Licenciatura'],Januária,Ciências Biológicas,IFNMG,Superior
+493,['Bacharelado'],Januária,Engenharia Agrícola e Ambiental,IFNMG,Superior
+494,['Bacharelado'],Januária,Engenharia Agronômica,IFNMG,Superior
+495,['Bacharelado'],Januária,Engenharia Civil,IFNMG,Superior
+496,['Bacharelado'],Januária,Sistemas de Informação,IFNMG,Superior
+497,['Licenciatura'],Januária,Física,IFNMG,Superior
+498,['Licenciatura'],Januária,Matemática,IFNMG,Superior
+499,['Tecnologia'],Januária,Análise e Desenvolvimento de Sistemas,IFNMG,Superior
+500,['Integrado'],Montes Claros,Informática,IFNMG,Técnico
+501,['Integrado'],Montes Claros,Química,IFNMG,Técnico
+502,['Subsequente'],Montes Claros,Eletrotécnica,IFNMG,Técnico
+503,['Subsequente'],Montes Claros,Segurança do Trabalho,IFNMG,Técnico
+504,['Subsequente'],Montes Claros,Edificações,IFNMG,Técnico
+505,['Bacharelado'],Montes Claros,Ciências da Computação,IFNMG,Superior
+506,['Bacharelado'],Montes Claros,Engenharia Elétrica,IFNMG,Superior
+507,['Bacharelado'],Montes Claros,Engenharia Química,IFNMG,Superior
+508,"['Integrado', 'Subsequente']",Pirapora,Edificações,IFNMG,Técnico
+509,"['Integrado', 'Subsequente']",Pirapora,Informática,IFNMG,Técnico
+510,['Integrado'],Pirapora,Vendas,IFNMG,Técnico
+511,['Integrado'],Pirapora,Sistemas de Energia Renovável,IFNMG,Técnico
+512,['Subsequente'],Pirapora,Administração,IFNMG,Técnico
+513,['Subsequente'],Pirapora,Segurança do Trabalho,IFNMG,Técnico
+514,['Subsequente'],Pirapora,Agente Comunitário de Saúde,IFNMG,Técnico
+515,['Bacharelado'],Pirapora,Administração,IFNMG,Superior
+516,['Bacharelado'],Pirapora,Engenharia Civil,IFNMG,Superior
+517,['Bacharelado'],Pirapora,Sistemas de Informação,IFNMG,Superior
+518,"['Concomitante', 'Subsequente']",Porteirinha,Informática para Internet,IFNMG,Técnico
+519,"['Concomitante', 'Subsequente']",Porteirinha,Eletrotécnica,IFNMG,Técnico
+520,['Bacharelado'],Porteirinha,Sistemas de Informação,IFNMG,Superior
+521,['Integrado'],Salinas,Agroindústria,IFNMG,Técnico
+522,['Integrado'],Salinas,Agropecuária,IFNMG,Técnico
+523,['Integrado'],Salinas,Informática,IFNMG,Técnico
+524,['Licenciatura'],Salinas,Ciências Biológicas,IFNMG,Superior
+525,['Licenciatura'],Salinas,Matemática,IFNMG,Superior
+526,['Licenciatura'],Salinas,Química,IFNMG,Superior
+527,['Licenciatura'],Salinas,Física,IFNMG,Superior
+528,['Licenciatura'],Salinas,Pedagogia,IFNMG,Superior
+529,['Tecnologia'],Salinas,Produção de Cachaça,IFNMG,Superior
+530,['Bacharelado'],Salinas,Medicina Veterinária,IFNMG,Superior
+531,['Bacharelado'],Salinas,Engenharia Florestal,IFNMG,Superior
+532,['Bacharelado'],Salinas,Engenharia de Alimentos,IFNMG,Superior
+533,['Bacharelado'],Salinas,Sistemas de Informação,IFNMG,Superior
+534,"['Concomitante', 'Subsequente']",Teófilo Otoni,Administração,IFNMG,Técnico
+535,"['Concomitante', 'Subsequente']",Teófilo Otoni,Informática,IFNMG,Técnico
+536,['Integrado'],Teófilo Otoni,Agropecuária,IFNMG,Técnico
+537,['Tecnologia'],Teófilo Otoni,Análises e Desenvolvimento de Sistemas,IFNMG,Superior
+538,['Integrado'],Araxás,Edificações,CEFET,Técnico
+539,['Integrado'],Araxás,Eletrônica,CEFET,Técnico
+540,['Integrado'],Araxás,Mecânica,CEFET,Técnico
+541,['Integrado'],Araxás,Mineração,CEFET,Técnico
+542,['Bacharelado'],Araxás,Engenharia de Automação,CEFET,Superior
+543,['Bacharelado'],Araxás,Engenharia de Minas,CEFET,Superior
+544,"['Integrado', 'Subsequente', 'Concomitante']",BH Câmpus I,Eletromecânica,CEFET,Técnico
+545,['Integrado'],BH Câmpus I,Mecatrônica,CEFET,Técnico
+546,"['Integrado', 'Subsequente']",BH Câmpus I,Meio Ambiente,CEFET,Técnico
+547,['Integrado'],BH Câmpus I,Trânsito,CEFET,Técnico
+548,['Bacharelado'],BH Câmpus I,Engenharia Ambiental,CEFET,Superior
+549,['Bacharelado'],BH Câmpus I,Engenharia de Materiais,CEFET,Superior
+550,['Bacharelado'],BH Câmpus I,Engenharia de Transporte,CEFET,Superior
+551,['Bacharelado'],BH Câmpus I,Letras,CEFET,Superior
+552,['Bacharelado'],BH Câmpus I,Química Tecnológica,CEFET,Superior
+553,['Mestrado Profissional stricto sensu'],BH Câmpus I,Engenharia de Materiais,CEFET,Pós-Graduação
+554,['Mestrado Profissional stricto sensu'],BH Câmpus I,Estudos de Linguagens,CEFET,Pós-Graduação
+555,['Doutorado stricto sensu'],BH Câmpus I,Estudos de Linguagens,CEFET,Pós-Graduação
+556,"['Integrado', 'Subsequente', 'Concomitante', 'PROEJA']",BH Câmpus II,Edificações,CEFET,Técnico
+557,"['Integrado', 'Subsequente', 'Concomitante']",BH Câmpus II,Eletrônica,CEFET,Técnico
+558,"['Integrado', 'Subsequente', 'Concomitante']",BH Câmpus II,Eletrotécnica,CEFET,Técnico
+559,['Integrado'],BH Câmpus II,Equipamentos Biomédicos,CEFET,Técnico
+560,['Integrado'],BH Câmpus II,Rede de Computadores,CEFET,Técnico
+561,['Bacharelado'],BH Câmpus II,Administração,CEFET,Superior
+562,['Bacharelado'],BH Câmpus II,Engenharia de Computação,CEFET,Superior
+563,['Bacharelado'],BH Câmpus II,Engenharia Elétrica,CEFET,Superior
+564,['Bacharelado'],BH Câmpus II,Engenharia Mecânica,CEFET,Superior
+565,['Bacharelado'],BH Câmpus II,Engenharia de Produção Civil,CEFET,Superior
+566,['Licenciatura'],BH Câmpus II,Programa de Formação Pedagógica de Docentes,CEFET,Superior
+567,['Especialização lato sensu'],BH Câmpus II,Especialização Administração da Produção e Automação Industrial,CEFET,Pós-Graduação
+568,['Especialização lato sensu'],BH Câmpus II,Banco de Dados,CEFET,Pós-Graduação
+569,['Especialização lato sensu'],BH Câmpus II,Especialização,CEFET,Pós-Graduação
+570,['Especialização lato sensu'],BH Câmpus II,Especialização,CEFET,Pós-Graduação
+571,['Especialização lato sensu'],BH Câmpus II,Linguagem e Tecnologia,CEFET,Pós-Graduação
+572,['Especialização lato sensu'],BH Câmpus II,Especialização,CEFET,Pós-Graduação
+573,['Especialização lato sensu'],BH Câmpus II,Processamento de Materiais Metálicos,CEFET,Pós-Graduação
+574,['Especialização lato sensu'],BH Câmpus II,Sistemas Eletrônicos e de Automação Industrial,CEFET,Pós-Graduação
+575,['Especialização lato sensu'],BH Câmpus II,Tecnologias de Sistema de Informação,CEFET,Pós-Graduação
+576,['Mestrado Profissional stricto sensu'],BH Câmpus II,Administração,CEFET,Pós-Graduação
+577,['Mestrado Profissional stricto sensu'],BH Câmpus II,Engenharia Civil,CEFET,Pós-Graduação
+578,['Mestrado Profissional stricto sensu'],BH Câmpus II,Engenharia Elétrica,CEFET,Pós-Graduação
+579,['Mestrado Profissional stricto sensu'],BH Câmpus II,Engenharia de Energia,CEFET,Pós-Graduação
+580,['Mestrado Profissional stricto sensu'],BH Câmpus II,Educação Tecnológica,CEFET,Pós-Graduação
+581,['Mestrado Profissional stricto sensu'],BH Câmpus II,Modelagem Matemática e Computacional,CEFET,Pós-Graduação
+582,['Mestrado Profissional stricto sensu'],BH Câmpus II,Mestrado Profissional,CEFET,Pós-Graduação
+583,['Doutorado stricto sensu'],BH Câmpus II,Engenharia Civil,CEFET,Pós-Graduação
+584,['Doutorado stricto sensu'],BH Câmpus II,Modelagem Matemática e Computacional,CEFET,Pós-Graduação
+585,['Especialização lato sensu'],BH Câmpus VI,Transportes e Trânsito,CEFET,Pós-Graduação
+586,['Mestrado Profissional stricto sensu'],BH Câmpus VI,Química,CEFET,Pós-Graduação
+587,['EAD'],Contagem,Meio Ambiente,CEFET,Técnico
+588,['EAD'],Contagem,Informática para Internet,CEFET,Técnico
+589,['Integrado'],Contagem,Controle Ambiental,CEFET,Técnico
+590,"['Integrado', 'EAD']",Contagem,Eletroeletrônica,CEFET,Técnico
+591,['Integrado'],Contagem,Informática,CEFET,Técnico
+592,['Especialização lato sensu'],Contagem,Engenharia Software,CEFET,Pós-Graduação
+593,['Integrado'],Curvelo,Edificações,CEFET,Técnico
+594,['Integrado'],Curvelo,Eletrotécnica,CEFET,Técnico
+595,['Integrado'],Curvelo,Meio Ambiente,CEFET,Técnico
+596,['Bacharelado'],Curvelo,Engenharia Civil,CEFET,Superior
+597,"['Integrado', 'Subsequente', 'Concomitante']",Divinópolis,Eletromecânica,CEFET,Técnico
+598,['Integrado'],Divinópolis,Informática,CEFET,Técnico
+599,"['Subsequente', 'Concomitante']",Divinópolis,Informática para Internet,CEFET,Técnico
+600,['Bacharelado'],Divinópolis,Design de Moda,CEFET,Superior
+601,['Bacharelado'],Divinópolis,Engenharia de Computação,CEFET,Superior
+602,['Bacharelado'],Divinópolis,Engenharia Mecatrônica,CEFET,Superior
+603,['Especialização lato sensu'],Divinópolis,Sistemas e Dispositivos Mecatrônicos,CEFET,Pós-Graduação
+604,['EAD'],Leopoldina,Meio Ambiente,CEFET,Técnico
+605,['EAD'],Leopoldina,Informática para Internet,CEFET,Técnico
+606,['EAD'],Leopoldina,Eletroeletrônica,CEFET,Técnico
+607,"['Integrado', 'Subsequente', 'Concomitante']",Leopoldina,Eletromecânica,CEFET,Técnico
+608,['Integrado'],Leopoldina,Eletrotécnica,CEFET,Técnico
+609,['Integrado'],Leopoldina,Informática,CEFET,Técnico
+610,['Bacharelado'],Leopoldina,Engenharia de Computação,CEFET,Superior
+611,['Bacharelado'],Leopoldina,Engenharia de Controle e Automação,CEFET,Superior
+612,['Especialização lato sensu'],Leopoldina,Internet das Coisas,CEFET,Pós-Graduação
+613,['EAD'],Nepomuceno,Eletroeletrônica,CEFET,Técnico
+614,['EAD'],Nepomuceno,Informática para Internet,CEFET,Técnico
+615,['EAD'],Nepomuceno,Meio Ambiente,CEFET,Técnico
+616,['Integrado'],Nepomuceno,Mecatrônica,CEFET,Técnico
+617,['Integrado'],Nepomuceno,Rede de Computadores,CEFET,Técnico
+618,['Bacharelado'],Nepomuceno,Engenharia Elétrica,CEFET,Superior
+619,['EAD'],Timóteo,Eletroeletrônica,CEFET,Técnico
+620,['EAD'],Timóteo,Informática para Internet,CEFET,Técnico
+621,['EAD'],Timóteo,Meio Ambiente,CEFET,Técnico
+622,['Integrado'],Timóteo,Informática,CEFET,Técnico
+623,"['Concomitante', 'Subsequente']",Timóteo,Metalurgia,CEFET,Técnico
+624,['Integrado'],Timóteo,Química,CEFET,Técnico
+625,['Bacharelado'],Timóteo,Engenharia de Computação,CEFET,Superior
+626,['EAD'],Varginha,Meio Ambiente,CEFET,Técnico
+627,['EAD'],Varginha,Eletroeletrônica,CEFET,Técnico
+628,['EAD'],Varginha,Informática para Internet,CEFET,Técnico
+629,"['Integrado', 'Subsequente']",Varginha,Edificações,CEFET,Técnico
+630,"['Integrado', 'Subsequente']",Varginha,Informática,CEFET,Técnico
+631,"['Integrado', 'Subsequente']",Varginha,Mecatrônica,CEFET,Técnico
+632,['Bacharelado'],Varginha,Engenharia Civil,CEFET,Superior
+633,['Especialização lato sensu'],Varginha,Engenharia de Sistemas,CEFET,Pós-Graduação
+634,['Especialização lato sensu'],Varginha,Engenharia de Processos Industriais Automatizados,CEFET,Pós-Graduação
+635,['Especialização lato sensu'],Varginha,Desenvolvimento de Sistemas,CEFET,Pós-Graduação
